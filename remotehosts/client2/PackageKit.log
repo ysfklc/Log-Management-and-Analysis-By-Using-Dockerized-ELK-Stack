@@ -1,0 +1,7 @@
+2019-01-09T15:01:50+03:00 client2 PackageKit: get-updates transaction /17_acedaeae from uid 0 finished with success after 6260ms
+2019-01-09T15:01:50+03:00 client2 PackageKit: new update-packages transaction /18_cbaccccb scheduled from uid 0
+2019-01-09T15:02:37+03:00 client2 PackageKit: update-packages transaction /18_cbaccccb from uid 0 finished with success after 46958ms
+2019-01-09T15:02:38+03:00 client2 PackageKit: get-update-detail transaction /19_eddbaabd from uid 0 finished with success after 1159ms
+2019-01-09T15:02:39+03:00 client2 PackageKit: get-updates transaction /20_addddedb from uid 0 finished with success after 1306ms
+2019-01-09T15:02:41+03:00 client2 PackageKit: get-updates transaction /21_badcdbae from uid 0 finished with success after 498ms
+2019-01-09T15:04:55+03:00 client2 PackageKit: daemon start

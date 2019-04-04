@@ -1,0 +1,4 @@
+2019-01-09T15:04:50+03:00 client2 libvirtd: 2019-01-09 12:04:50.222+0000: 1483: info : libvirt version: 3.9.0, package: 14.el7_5.6 (CentOS BuildSystem <http://bugs.centos.org>, 2018-06-27-14:13:57, x86-01.bsys.centos.org)
+2019-01-09T15:04:50+03:00 client2 libvirtd: 2019-01-09 12:04:50.222+0000: 1483: info : hostname: client2.localdomain
+2019-01-09T15:04:50+03:00 client2 libvirtd: 2019-01-09 12:04:50.222+0000: 1483: error : logStrToLong_ui:2564 : Failed to convert 'virtio0' to unsigned int
+2019-01-09T15:04:50+03:00 client2 libvirtd: 2019-01-09 12:04:50.222+0000: 1483: error : virPCIGetDeviceAddressFromSysfsLink:2643 : internal error: Failed to parse PCI config address 'virtio0'

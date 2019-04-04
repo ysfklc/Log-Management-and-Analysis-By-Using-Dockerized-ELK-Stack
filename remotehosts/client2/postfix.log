@@ -1,0 +1,6 @@
+2019-01-09T02:17:13+03:00 client2 postfix/postfix-script[31805]: stopping the Postfix mail system
+2019-01-09T02:17:13+03:00 client2 postfix/master[1796]: terminating on signal 15
+2019-01-09T02:17:13+03:00 client2 postfix/postfix-script[31888]: starting the Postfix mail system
+2019-01-09T02:17:13+03:00 client2 postfix/master[31890]: daemon started -- version 2.10.1, configuration /etc/postfix
+2019-01-09T15:04:51+03:00 client2 postfix/postfix-script[1768]: starting the Postfix mail system
+2019-01-09T15:04:51+03:00 client2 postfix/master[1771]: daemon started -- version 2.10.1, configuration /etc/postfix

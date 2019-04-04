@@ -1,0 +1,8 @@
+2019-01-09T15:04:57+03:00 client2 realmd: Loaded settings from: /usr/lib64/realmd/realmd-defaults.conf /usr/lib64/realmd/realmd-distro.conf 
+2019-01-09T15:04:57+03:00 client2 realmd: holding daemon: startup
+2019-01-09T15:04:57+03:00 client2 realmd: starting service
+2019-01-09T15:04:57+03:00 client2 realmd: connected to bus
+2019-01-09T15:04:57+03:00 client2 realmd: released daemon: startup
+2019-01-09T15:04:57+03:00 client2 realmd: claimed name on bus: org.freedesktop.realmd
+2019-01-09T15:05:58+03:00 client2 realmd: quitting realmd service after timeout
+2019-01-09T15:05:58+03:00 client2 realmd: stopping service

@@ -1,0 +1,22 @@
+2019-01-09T15:04:56+03:00 client2 gnome-session-binary[1658]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+2019-01-09T15:04:56+03:00 client2 gnome-session-binary: Entering running state
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Power.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.PrintNotifications.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Rfkill.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.ScreensaverProxy.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Sharing.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Smartcard.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Wacom.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.A11yKeyboard.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.A11ySettings.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Clipboard.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Color.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Datetime.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Housekeeping.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Keyboard.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.MediaKeys.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Mouse.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Application 'org.gnome.SettingsDaemon.Sound.desktop' killed by signal 15
+2019-01-09T15:06:49+03:00 client2 gnome-session-binary[1658]: WARNING: Lost name on bus: org.gnome.SessionManager
+2019-01-09T15:06:53+03:00 client2 gnome-session-binary[2659]: WARNING: App 'spice-vdagent.desktop' exited with code 1
+2019-01-09T15:06:55+03:00 client2 gnome-session-binary: Entering running state

@@ -1,0 +1,10 @@
+2019-01-09T15:01:46+03:00 client2 prlcc.desktop: Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 70: non-double matrix element
+2019-01-09T15:01:46+03:00 client2 prlcc.desktop: Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 70: non-double matrix element
+2019-01-09T15:01:46+03:00 client2 prlcc.desktop: Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 78: saw unknown, expected number
+2019-01-09T15:01:46+03:00 client2 prlcc.desktop: Fontconfig warning: "/etc/fonts/conf.d/65-0-lohit-bengali.conf", line 32: unknown element "langset"
+2019-01-09T15:01:46+03:00 client2 prlcc.desktop: Fontconfig warning: "/etc/fonts/conf.d/69-gnu-free-sans.conf", line 24: unknown element "langset"
+2019-01-09T15:01:46+03:00 client2 prlcc.desktop: Fontconfig warning: "/etc/fonts/conf.d/69-gnu-free-serif.conf", line 24: unknown element "langset"
+2019-01-09T15:06:56+03:00 client2 prlcc.desktop: find: ‘/var/lib/flatpak/exports/share//applications/’: No such file or directory
+2019-01-09T15:06:56+03:00 client2 prlcc.desktop: find: ‘/root/.local/share/flatpak/exports/share//applications/’: No such file or directory
+2019-01-09T15:06:56+03:00 client2 prlcc.desktop: find: ‘/var/lib/flatpak/exports/share//applications/’: No such file or directory
+2019-01-09T15:06:56+03:00 client2 prlcc.desktop: find: ‘/root/.local/share/flatpak/exports/share//applications/’: No such file or directory

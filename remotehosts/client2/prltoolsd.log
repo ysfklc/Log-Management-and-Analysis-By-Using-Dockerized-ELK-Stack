@@ -1,0 +1,6 @@
+2019-01-09T15:04:47+03:00 client2 prltoolsd: Loading Parallels ToolsGate driver: done
+2019-01-09T15:04:47+03:00 client2 prltoolsd: Loading Parallels Network driver: done
+2019-01-09T15:04:47+03:00 client2 prltoolsd: Loading Parallels Shared Folders driver: done
+2019-01-09T15:04:47+03:00 client2 prltoolsd: Mounting Parallels Shared Folders: done
+2019-01-09T15:04:47+03:00 client2 prltoolsd: Loading Parallels Filesystem Freeze driver: done
+2019-01-09T15:04:47+03:00 client2 prltoolsd: Starting Parallels tools daemon: done

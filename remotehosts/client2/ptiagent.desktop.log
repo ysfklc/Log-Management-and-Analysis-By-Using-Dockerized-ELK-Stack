@@ -1,0 +1,6 @@
+2019-01-09T15:06:57+03:00 client2 ptiagent.desktop: Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 70: non-double matrix element
+2019-01-09T15:06:57+03:00 client2 ptiagent.desktop: Fontconfig error: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 70: non-double matrix element
+2019-01-09T15:06:57+03:00 client2 ptiagent.desktop: Fontconfig warning: "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf", line 78: saw unknown, expected number
+2019-01-09T15:06:57+03:00 client2 ptiagent.desktop: Fontconfig warning: "/etc/fonts/conf.d/65-0-lohit-bengali.conf", line 32: unknown element "langset"
+2019-01-09T15:06:57+03:00 client2 ptiagent.desktop: Fontconfig warning: "/etc/fonts/conf.d/69-gnu-free-sans.conf", line 24: unknown element "langset"
+2019-01-09T15:06:57+03:00 client2 ptiagent.desktop: Fontconfig warning: "/etc/fonts/conf.d/69-gnu-free-serif.conf", line 24: unknown element "langset"

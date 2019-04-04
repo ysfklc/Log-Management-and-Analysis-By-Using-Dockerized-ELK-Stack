@@ -1,0 +1,12 @@
+2019-01-09T15:06:49+03:00 client2 com.redhat.imsettings: [ 1547035609.814331]: IMSettings-Daemon[2738]: INFO: Starting imsettings-daemon...
+2019-01-09T15:06:49+03:00 client2 com.redhat.imsettings: [ 1547035609.814501]: IMSettings-Daemon[2738]: INFO:   [HOME=/root/.config/imsettings]
+2019-01-09T15:06:49+03:00 client2 com.redhat.imsettings: [ 1547035609.814543]: IMSettings-Daemon[2738]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+2019-01-09T15:06:49+03:00 client2 com.redhat.imsettings: [ 1547035609.814581]: IMSettings-Daemon[2738]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+2019-01-09T15:06:49+03:00 client2 com.redhat.imsettings: [ 1547035609.814616]: IMSettings-Daemon[2738]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+2019-01-09T15:06:49+03:00 client2 com.redhat.imsettings: [ 1547035609.814652]: IMSettings-Daemon[2738]: INFO:   [MODULES=gsettings]
+2019-01-09T15:06:54+03:00 client2 com.redhat.imsettings: [ 1547035614.496374]: IMSettings-Daemon[2738]: INFO: Attempting to switch IM to none [lang=en_US.UTF-8, update=false]
+2019-01-09T15:06:56+03:00 client2 com.redhat.imsettings: No such schema “org.gnome.settings-daemon.plugins.keyboard”
+2019-01-09T15:06:56+03:00 client2 com.redhat.imsettings: [ 1547035616.231565]: IMSettings-Daemon[2738]: INFO:   no need to invoke any auxiliary process for none
+2019-01-09T15:06:56+03:00 client2 com.redhat.imsettings: [ 1547035616.232029]: IMSettings-Daemon[2738]: INFO:   no need to invoke any main process for none
+2019-01-09T15:06:56+03:00 client2 com.redhat.imsettings: [ 1547035616.232273]: IMSettings-GSettings backend[2738]: INFO: Setting up gtk-im-context-simple:xim as gtk+ immodule
+2019-01-09T15:06:56+03:00 client2 com.redhat.imsettings: /usr/libexec/imsettings-target-checker.sh: line 71: [: ==: unary operator expected

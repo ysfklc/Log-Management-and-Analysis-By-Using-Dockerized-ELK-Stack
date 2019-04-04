@@ -1,0 +1,48 @@
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: remove /devices/pci0000:00/0000:00:1d.7/usb1/1-1
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: remove /devices/pci0000:00/0000:00:1d.7/usb1/1-2
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: URI of detected printer: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0, normalized: color laserjet 8500 serial tag11d87aca0
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG163742630, normalized: color laserjet 8500 serial tag163742630
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0, normalized: color laserjet 8500 serial tag11d87aca0
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: Queue ipp://localhost:631/printers/Print_to_PDF_(Mac_Desktop) has matching device URI
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: Disabled printer ipp://localhost:631/printers/Print_to_PDF_(Mac_Desktop) as the corresponding device was unplugged or turned off
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: URI of detected printer: usb://HP/Color%20LaserJet%208500?serial=TAG163742630, normalized: color laserjet 8500 serial tag163742630
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG163742630, normalized: color laserjet 8500 serial tag163742630
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: Queue ipp://localhost:631/printers/Canon_E510_series has matching device URI
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: Disabled printer ipp://localhost:631/printers/Canon_E510_series as the corresponding device was unplugged or turned off
+2019-01-09T02:41:57+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0, normalized: color laserjet 8500 serial tag11d87aca0
+2019-01-09T02:42:00+03:00 client2 udev-configure-printer: add usb-001-007
+2019-01-09T02:42:01+03:00 client2 udev-configure-printer: device devpath is /devices/pci0000:00/0000:00:1d.7/usb1/1-1
+2019-01-09T02:42:01+03:00 client2 udev-configure-printer: MFG:HP MDL:HP Color LaserJet 8500 SERN:TAG11d87aca0 serial:TAG11d87aca0
+2019-01-09T15:01:44+03:00 client2 udev-configure-printer: SERN fields match
+2019-01-09T15:01:44+03:00 client2 udev-configure-printer: URI match: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0
+2019-01-09T15:01:44+03:00 client2 udev-configure-printer: URI of detected printer: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0, normalized: color laserjet 8500 serial tag11d87aca0
+2019-01-09T15:01:44+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG163742630, normalized: color laserjet 8500 serial tag163742630
+2019-01-09T15:01:44+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0, normalized: color laserjet 8500 serial tag11d87aca0
+2019-01-09T15:01:44+03:00 client2 udev-configure-printer: Queue ipp://localhost:631/printers/Virtual_Printer_(Print_to_PDF_(Mac_Desktop)) has matching device URI
+2019-01-09T15:01:45+03:00 client2 udev-configure-printer: add usb-001-008
+2019-01-09T15:01:45+03:00 client2 udev-configure-printer: device devpath is /devices/pci0000:00/0000:00:1d.7/usb1/1-2
+2019-01-09T15:01:45+03:00 client2 udev-configure-printer: MFG:HP MDL:HP Color LaserJet 8500 SERN:TAG163742630 serial:TAG163742630
+2019-01-09T15:01:46+03:00 client2 udev-configure-printer: SERN fields match
+2019-01-09T15:01:46+03:00 client2 udev-configure-printer: URI match: usb://HP/Color%20LaserJet%208500?serial=TAG163742630
+2019-01-09T15:01:46+03:00 client2 udev-configure-printer: URI of detected printer: usb://HP/Color%20LaserJet%208500?serial=TAG163742630, normalized: color laserjet 8500 serial tag163742630
+2019-01-09T15:01:46+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG163742630, normalized: color laserjet 8500 serial tag163742630
+2019-01-09T15:01:46+03:00 client2 udev-configure-printer: Queue ipp://localhost:631/printers/Canon_E510_series has matching device URI
+2019-01-09T15:01:46+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0, normalized: color laserjet 8500 serial tag11d87aca0
+2019-01-09T15:04:50+03:00 client2 udev-configure-printer: add usb-001-002
+2019-01-09T15:04:50+03:00 client2 udev-configure-printer: device devpath is /devices/pci0000:00/0000:00:1d.7/usb1/1-1
+2019-01-09T15:04:50+03:00 client2 udev-configure-printer: MFG:HP MDL:HP Color LaserJet 8500 SERN:TAG11d87aca0 serial:TAG11d87aca0
+2019-01-09T15:04:51+03:00 client2 udev-configure-printer: SERN fields match
+2019-01-09T15:04:51+03:00 client2 udev-configure-printer: URI match: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0
+2019-01-09T15:04:51+03:00 client2 udev-configure-printer: URI of detected printer: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0, normalized: color laserjet 8500 serial tag11d87aca0
+2019-01-09T15:04:51+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG163742630, normalized: color laserjet 8500 serial tag163742630
+2019-01-09T15:04:51+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0, normalized: color laserjet 8500 serial tag11d87aca0
+2019-01-09T15:04:51+03:00 client2 udev-configure-printer: Queue ipp://localhost:631/printers/Virtual_Printer_(Print_to_PDF_(Mac_Desktop)) has matching device URI
+2019-01-09T15:04:52+03:00 client2 udev-configure-printer: add usb-001-003
+2019-01-09T15:04:52+03:00 client2 udev-configure-printer: device devpath is /devices/pci0000:00/0000:00:1d.7/usb1/1-2
+2019-01-09T15:04:52+03:00 client2 udev-configure-printer: MFG:HP MDL:HP Color LaserJet 8500 SERN:TAG163742630 serial:TAG163742630
+2019-01-09T15:04:53+03:00 client2 udev-configure-printer: SERN fields match
+2019-01-09T15:04:53+03:00 client2 udev-configure-printer: URI match: usb://HP/Color%20LaserJet%208500?serial=TAG163742630
+2019-01-09T15:04:53+03:00 client2 udev-configure-printer: URI of detected printer: usb://HP/Color%20LaserJet%208500?serial=TAG163742630, normalized: color laserjet 8500 serial tag163742630
+2019-01-09T15:04:53+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG163742630, normalized: color laserjet 8500 serial tag163742630
+2019-01-09T15:04:53+03:00 client2 udev-configure-printer: Queue ipp://localhost:631/printers/Canon_E510_series has matching device URI
+2019-01-09T15:04:53+03:00 client2 udev-configure-printer: URI of print queue: usb://HP/Color%20LaserJet%208500?serial=TAG11d87aca0, normalized: color laserjet 8500 serial tag11d87aca0

@@ -1,0 +1,305 @@
+2019-01-09T01:40:03+03:00 client2 NetworkManager[1047]: <info>  [1546987203.4827] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-09T01:40:03+03:00 client2 NetworkManager[1047]: <info>  [1546987203.4884] dhcp4 (eth0): dhclient started with pid 21363
+2019-01-09T01:40:03+03:00 client2 NetworkManager[1047]: <info>  [1546987203.5310] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T01:40:03+03:00 client2 NetworkManager[1047]: <info>  [1546987203.5312] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T01:40:03+03:00 client2 NetworkManager[1047]: <info>  [1546987203.5312] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T01:40:03+03:00 client2 NetworkManager[1047]: <info>  [1546987203.5313] dhcp4 (eth0):   lease time 1800
+2019-01-09T01:40:03+03:00 client2 NetworkManager[1047]: <info>  [1546987203.5313] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T01:40:03+03:00 client2 NetworkManager[1047]: <info>  [1546987203.5313] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T01:40:03+03:00 client2 NetworkManager[1047]: <info>  [1546987203.5313] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T01:40:03+03:00 client2 NetworkManager[1047]: <info>  [1546987203.5313] dhcp4 (eth0): state changed unknown -> bound
+2019-01-09T01:51:37+03:00 client2 NetworkManager[1047]: <info>  [1546987897.8839] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T01:51:37+03:00 client2 NetworkManager[1047]: <info>  [1546987897.8843] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T01:51:37+03:00 client2 NetworkManager[1047]: <info>  [1546987897.8843] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T01:51:37+03:00 client2 NetworkManager[1047]: <info>  [1546987897.8843] dhcp4 (eth0):   lease time 1800
+2019-01-09T01:51:37+03:00 client2 NetworkManager[1047]: <info>  [1546987897.8843] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T01:51:37+03:00 client2 NetworkManager[1047]: <info>  [1546987897.8843] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T01:51:37+03:00 client2 NetworkManager[1047]: <info>  [1546987897.8843] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T01:51:37+03:00 client2 NetworkManager[1047]: <info>  [1546987897.8843] dhcp4 (eth0): state changed bound -> bound
+2019-01-09T02:04:52+03:00 client2 NetworkManager[1047]: <info>  [1546988692.6647] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T02:04:52+03:00 client2 NetworkManager[1047]: <info>  [1546988692.6652] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T02:04:52+03:00 client2 NetworkManager[1047]: <info>  [1546988692.6673] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T02:04:52+03:00 client2 NetworkManager[1047]: <info>  [1546988692.6678] dhcp4 (eth0):   lease time 1800
+2019-01-09T02:04:52+03:00 client2 NetworkManager[1047]: <info>  [1546988692.6680] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T02:04:52+03:00 client2 NetworkManager[1047]: <info>  [1546988692.6680] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T02:04:52+03:00 client2 NetworkManager[1047]: <info>  [1546988692.6680] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T02:04:52+03:00 client2 NetworkManager[1047]: <info>  [1546988692.6681] dhcp4 (eth0): state changed bound -> bound
+2019-01-09T02:19:11+03:00 client2 NetworkManager[1047]: <info>  [1546989551.6557] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T02:19:11+03:00 client2 NetworkManager[1047]: <info>  [1546989551.6578] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T02:19:11+03:00 client2 NetworkManager[1047]: <info>  [1546989551.6599] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T02:19:11+03:00 client2 NetworkManager[1047]: <info>  [1546989551.6607] dhcp4 (eth0):   lease time 1800
+2019-01-09T02:19:11+03:00 client2 NetworkManager[1047]: <info>  [1546989551.6609] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T02:19:11+03:00 client2 NetworkManager[1047]: <info>  [1546989551.6609] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T02:19:11+03:00 client2 NetworkManager[1047]: <info>  [1546989551.6609] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T02:19:11+03:00 client2 NetworkManager[1047]: <info>  [1546989551.6609] dhcp4 (eth0): state changed bound -> bound
+2019-01-09T02:32:57+03:00 client2 NetworkManager[1047]: <info>  [1546990377.3584] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T02:32:57+03:00 client2 NetworkManager[1047]: <info>  [1546990377.3605] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T02:32:57+03:00 client2 NetworkManager[1047]: <info>  [1546990377.3617] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T02:32:57+03:00 client2 NetworkManager[1047]: <info>  [1546990377.3627] dhcp4 (eth0):   lease time 1800
+2019-01-09T02:32:57+03:00 client2 NetworkManager[1047]: <info>  [1546990377.3628] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T02:32:57+03:00 client2 NetworkManager[1047]: <info>  [1546990377.3628] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T02:32:57+03:00 client2 NetworkManager[1047]: <info>  [1546990377.3628] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T02:32:57+03:00 client2 NetworkManager[1047]: <info>  [1546990377.3628] dhcp4 (eth0): state changed bound -> bound
+2019-01-09T02:42:01+03:00 client2 NetworkManager[1047]: <info>  [1546990921.6598] device (eth0): state change: activated -> deactivating (reason 'user-requested', sys-iface-state: 'managed')
+2019-01-09T02:42:01+03:00 client2 NetworkManager[1047]: <info>  [1546990921.6721] manager: NetworkManager state is now CONNECTED_LOCAL
+2019-01-09T02:42:01+03:00 client2 NetworkManager[1047]: <info>  [1546990921.6726] audit: op="device-disconnect" interface="eth0" ifindex=2 pid=6447 uid=0 result="success"
+2019-01-09T02:42:01+03:00 client2 NetworkManager[1047]: <info>  [1546990921.6738] device (eth0): state change: deactivating -> disconnected (reason 'user-requested', sys-iface-state: 'managed')
+2019-01-09T02:42:01+03:00 client2 NetworkManager[1047]: <info>  [1546990921.7320] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 21363
+2019-01-09T02:42:01+03:00 client2 NetworkManager[1047]: <info>  [1546990921.7321] dhcp4 (eth0): state changed bound -> done
+2019-01-09T02:42:01+03:00 client2 NetworkManager[1047]: <info>  [1546990921.7481] dhcp6 (eth0): canceled DHCP transaction
+2019-01-09T02:42:01+03:00 client2 NetworkManager[1047]: <info>  [1546990921.7881] policy: set-hostname: set hostname to 'localhost.localdomain' (no default device)
+2019-01-09T15:01:41+03:00 client2 NetworkManager[1047]: <info>  [1547035301.2057] device (lo): carrier: link connected
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.2788] device (eth0): Activation: starting connection 'eth0' (9410076c-bee9-4886-af6c-537c17bcfee0)
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.2873] audit: op="connection-activate" uuid="9410076c-bee9-4886-af6c-537c17bcfee0" name="eth0" pid=6741 uid=0 result="success"
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.2879] device (eth0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.2884] manager: NetworkManager state is now CONNECTING
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.2896] device (eth0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.5328] device (eth0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.5343] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.5613] dhcp4 (eth0): dhclient started with pid 6747
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7138] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7138] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7139] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7139] dhcp4 (eth0):   lease time 1800
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7139] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7139] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7139] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7139] dhcp4 (eth0): state changed unknown -> bound
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7219] device (eth0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7228] device (eth0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7231] device (eth0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7235] manager: NetworkManager state is now CONNECTED_LOCAL
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7479] manager: NetworkManager state is now CONNECTED_SITE
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7481] policy: set 'eth0' (eth0) as default for IPv4 routing and DNS
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7482] policy: set-hostname: set hostname to 'client2' (from DHCPv4)
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7535] device (eth0): Activation: successful, device activated.
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7554] manager: NetworkManager state is now CONNECTED_GLOBAL
+2019-01-09T15:01:42+03:00 client2 NetworkManager[1047]: <info>  [1547035302.7980] device (eth0): ipv6: duplicate address check failed for the fe80::d41a:a6de:73c6:70fd/64 lft forever pref forever lifetime 8043-0[4294967295,4294967295] dev 2 flags tentative,permanent,0x8 src kernel address
+2019-01-09T15:01:45+03:00 client2 NetworkManager[1047]: <info>  [1547035305.2397] dhcp6 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-09T15:01:45+03:00 client2 NetworkManager[1047]: <info>  [1547035305.2784] dhcp6 (eth0): dhclient started with pid 6913
+2019-01-09T15:01:45+03:00 client2 NetworkManager[1047]: <info>  [1547035305.2828] policy: set 'eth0' (eth0) as default for IPv6 routing and DNS
+2019-01-09T15:01:45+03:00 client2 NetworkManager[1047]: <info>  [1547035305.3066] device (eth0): ipv6: duplicate address check failed for the fe80::d41a:a6de:73c6:70fd/64 lft forever pref forever lifetime 8046-0[4294967295,4294967295] dev 2 flags tentative,permanent,noprefixroute,0x8 src kernel address
+2019-01-09T15:01:45+03:00 client2 NetworkManager[1047]: <info>  [1547035305.9894] dhcp6 (eth0):   nameserver 'fe80::21c:42ff:fe00:18'
+2019-01-09T15:01:45+03:00 client2 NetworkManager[1047]: <info>  [1547035305.9895] dhcp6 (eth0): state changed unknown -> bound
+2019-01-09T15:01:46+03:00 client2 NetworkManager[1047]: <info>  [1547035306.0556] dhcp6 (eth0): client pid 6913 exited with status 0
+2019-01-09T15:01:46+03:00 client2 NetworkManager[1047]: <info>  [1547035306.0557] dhcp6 (eth0): state changed bound -> done
+2019-01-09T15:01:46+03:00 client2 NetworkManager[1047]: <info>  [1547035306.2726] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 8047-8046[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T15:04:47+03:00 client2 NetworkManager[1047]: <info>  [1547035487.8548] NetworkManager (version 1.10.2-16.el7_5) is starting... (for the first time)
+2019-01-09T15:04:47+03:00 client2 NetworkManager[1047]: <info>  [1547035487.8569] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-slaves-order.conf)
+2019-01-09T15:04:47+03:00 client2 NetworkManager[1047]: <info>  [1547035487.8733] manager[0x55b75ae94100]: monitoring kernel firmware directory '/lib/firmware'.
+2019-01-09T15:04:47+03:00 client2 NetworkManager[1047]: <info>  [1547035487.9586] hostname: hostname: using hostnamed
+2019-01-09T15:04:47+03:00 client2 NetworkManager[1047]: <info>  [1547035487.9588] hostname: hostname changed from (none) to "client2.localdomain"
+2019-01-09T15:04:47+03:00 client2 NetworkManager[1047]: <info>  [1547035487.9599] dns-mgr[0x55b75aeaf170]: init: dns=default, rc-manager=file
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0078] settings: loaded plugin ifcfg-rh: (c) 2007 - 2015 Red Hat, Inc.  To report bugs please use the NetworkManager mailing list. (/usr/lib64/NetworkManager/libnm-settings-plugin-ifcfg-rh.so)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0088] settings: loaded plugin iBFT: (c) 2014 Red Hat, Inc.  To report bugs please use the NetworkManager mailing list. (/usr/lib64/NetworkManager/libnm-settings-plugin-ibft.so)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0088] settings: loaded plugin keyfile: (c) 2007 - 2016 Red Hat, Inc.  To report bugs please use the NetworkManager mailing list.
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0105] ifcfg-rh: new connection /etc/sysconfig/network-scripts/ifcfg-eth0 (9410076c-bee9-4886-af6c-537c17bcfee0,"eth0")
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0233] manager: rfkill: WiFi enabled by radio killswitch; enabled by state file
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0233] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0234] manager: Networking is enabled by state file
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0237] dhcp-init: Using DHCP client 'dhclient'
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0253] Loaded device plugin: NMBondDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0253] Loaded device plugin: NMBridgeDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0253] Loaded device plugin: NMDummyDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0253] Loaded device plugin: NMEthernetDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0254] Loaded device plugin: NMInfinibandDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0254] Loaded device plugin: NMIPTunnelDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0254] Loaded device plugin: NMMacsecDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0255] Loaded device plugin: NMMacvlanDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0255] Loaded device plugin: NMPppDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0255] Loaded device plugin: NMTunDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0255] Loaded device plugin: NMVethDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0257] Loaded device plugin: NMVlanDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0258] Loaded device plugin: NMVxlanDeviceFactory (internal)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0302] Loaded device plugin: NMAtmManager (/usr/lib64/NetworkManager/libnm-device-plugin-adsl.so)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0429] Loaded device plugin: NMBluezManager (/usr/lib64/NetworkManager/libnm-device-plugin-bluetooth.so)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0478] Loaded device plugin: NMTeamFactory (/usr/lib64/NetworkManager/libnm-device-plugin-team.so)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0491] Loaded device plugin: NMWwanFactory (/usr/lib64/NetworkManager/libnm-device-plugin-wwan.so)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0503] Loaded device plugin: NMWifiFactory (/usr/lib64/NetworkManager/libnm-device-plugin-wifi.so)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0528] device (lo): carrier: link connected
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0544] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0580] manager: (eth0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0612] device (eth0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0640] device (eth0): carrier: link connected
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0924] modem-manager: ModemManager available
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0984] device (eth0): state change: unavailable -> disconnected (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.0993] policy: auto-activating connection 'eth0'
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.1019] device (eth0): Activation: starting connection 'eth0' (9410076c-bee9-4886-af6c-537c17bcfee0)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.1024] device (eth0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.1028] manager: NetworkManager state is now CONNECTING
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.1034] device (eth0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6337] device (eth0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6352] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6395] dhcp4 (eth0): dhclient started with pid 1183
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6904] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6904] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6905] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6905] dhcp4 (eth0):   lease time 1800
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6905] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6905] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6905] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6905] dhcp4 (eth0): state changed unknown -> bound
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6912] device (eth0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6917] device (eth0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6919] device (eth0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6920] manager: NetworkManager state is now CONNECTED_LOCAL
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6989] manager: NetworkManager state is now CONNECTED_SITE
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.6991] policy: set 'eth0' (eth0) as default for IPv4 routing and DNS
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.7016] device (eth0): Activation: successful, device activated.
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.7025] manager: startup complete
+2019-01-09T15:04:48+03:00 client2 NetworkManager[1047]: <info>  [1547035488.7043] manager: NetworkManager state is now CONNECTED_GLOBAL
+2019-01-09T15:04:49+03:00 client2 NetworkManager[1047]: <info>  [1547035489.1551] device (eth0): ipv6: duplicate address check failed for the fe80::d41a:a6de:73c6:70fd/64 lft forever pref forever lifetime 2-0[4294967295,4294967295] dev 2 flags tentative,permanent,0x8 src kernel address
+2019-01-09T15:04:50+03:00 client2 NetworkManager[1047]: <info>  [1547035490.6289] dhcp6 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-09T15:04:50+03:00 client2 NetworkManager[1047]: <info>  [1547035490.6673] dhcp6 (eth0): dhclient started with pid 1645
+2019-01-09T15:04:50+03:00 client2 NetworkManager[1047]: <info>  [1547035490.6713] policy: set 'eth0' (eth0) as default for IPv6 routing and DNS
+2019-01-09T15:04:50+03:00 client2 NetworkManager[1047]: <info>  [1547035490.6804] device (eth0): ipv6: duplicate address check failed for the fe80::d41a:a6de:73c6:70fd/64 lft forever pref forever lifetime 4-0[4294967295,4294967295] dev 2 flags tentative,permanent,noprefixroute,0x8 src kernel address
+2019-01-09T15:04:50+03:00 client2 NetworkManager[1047]: <info>  [1547035490.7724] manager: (virbr0): new Bridge device (/org/freedesktop/NetworkManager/Devices/3)
+2019-01-09T15:04:50+03:00 client2 NetworkManager[1047]: <info>  [1547035490.9030] manager: (virbr0-nic): new Tun device (/org/freedesktop/NetworkManager/Devices/4)
+2019-01-09T15:04:50+03:00 client2 NetworkManager[1047]: <info>  [1547035490.9249] dhcp6 (eth0):   nameserver 'fe80::21c:42ff:fe00:18'
+2019-01-09T15:04:50+03:00 client2 NetworkManager[1047]: <info>  [1547035490.9250] dhcp6 (eth0): state changed unknown -> bound
+2019-01-09T15:04:50+03:00 client2 NetworkManager[1047]: <info>  [1547035490.9316] device (virbr0-nic): state change: unmanaged -> unavailable (reason 'connection-assumed', sys-iface-state: 'external')
+2019-01-09T15:04:50+03:00 client2 NetworkManager[1047]: <info>  [1547035490.9326] device (virbr0-nic): state change: unavailable -> disconnected (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.0006] dhcp6 (eth0): client pid 1645 exited with status 0
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.0009] dhcp6 (eth0): state changed bound -> done
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.2337] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2592000sec pref 604800sec lifetime 4-4[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7133] device (virbr0): state change: unmanaged -> unavailable (reason 'connection-assumed', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7169] ifcfg-rh: add connection in-memory (546fff61-7268-4aaa-aefd-07cf294bad0c,"virbr0")
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7180] device (virbr0): state change: unavailable -> disconnected (reason 'connection-assumed', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7189] device (virbr0): Activation: starting connection 'virbr0' (546fff61-7268-4aaa-aefd-07cf294bad0c)
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7191] device (virbr0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7193] device (virbr0): state change: prepare -> config (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7204] keyfile: add connection in-memory (59ba0542-78a6-4bbe-941d-aca35a57b623,"virbr0-nic")
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7212] device (virbr0-nic): Activation: starting connection 'virbr0-nic' (59ba0542-78a6-4bbe-941d-aca35a57b623)
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7213] device (virbr0): state change: config -> ip-config (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7214] device (virbr0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7217] device (virbr0-nic): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7220] device (virbr0-nic): state change: prepare -> config (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7221] device (virbr0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7223] device (virbr0-nic): state change: config -> ip-config (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7223] device (virbr0): bridge port virbr0-nic was attached
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7223] device (virbr0-nic): Activation: connection 'virbr0-nic' enslaved, continuing activation
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7224] device (virbr0-nic): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7225] device (virbr0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7400] device (virbr0): Activation: successful, device activated.
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7409] device (virbr0-nic): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7410] device (virbr0-nic): state change: secondaries -> activated (reason 'none', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.7498] device (virbr0-nic): Activation: successful, device activated.
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.8671] device (virbr0-nic): state change: activated -> unmanaged (reason 'connection-assumed', sys-iface-state: 'external')
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.8673] device (virbr0): bridge port virbr0-nic was detached
+2019-01-09T15:04:51+03:00 client2 NetworkManager[1047]: <info>  [1547035491.8673] device (virbr0-nic): released from master device virbr0
+2019-01-09T15:14:20+03:00 client2 NetworkManager[1047]: <info>  [1547036060.7360] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 574-573[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T15:16:37+03:00 client2 NetworkManager[1047]: <info>  [1547036197.8096] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T15:16:37+03:00 client2 NetworkManager[1047]: <info>  [1547036197.8098] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T15:16:37+03:00 client2 NetworkManager[1047]: <info>  [1547036197.8098] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T15:16:37+03:00 client2 NetworkManager[1047]: <info>  [1547036197.8098] dhcp4 (eth0):   lease time 1800
+2019-01-09T15:16:37+03:00 client2 NetworkManager[1047]: <info>  [1547036197.8098] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T15:16:37+03:00 client2 NetworkManager[1047]: <info>  [1547036197.8098] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T15:16:37+03:00 client2 NetworkManager[1047]: <info>  [1547036197.8098] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T15:16:37+03:00 client2 NetworkManager[1047]: <info>  [1547036197.8098] dhcp4 (eth0): state changed bound -> bound
+2019-01-09T15:19:55+03:00 client2 NetworkManager[1047]: <info>  [1547036395.1415] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 908-907[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T15:29:04+03:00 client2 NetworkManager[1047]: <info>  [1547036944.8112] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 1458-1457[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T15:30:59+03:00 client2 NetworkManager[1047]: <info>  [1547037059.3618] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T15:30:59+03:00 client2 NetworkManager[1047]: <info>  [1547037059.3625] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T15:30:59+03:00 client2 NetworkManager[1047]: <info>  [1547037059.3625] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T15:30:59+03:00 client2 NetworkManager[1047]: <info>  [1547037059.3625] dhcp4 (eth0):   lease time 1800
+2019-01-09T15:30:59+03:00 client2 NetworkManager[1047]: <info>  [1547037059.3626] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T15:30:59+03:00 client2 NetworkManager[1047]: <info>  [1547037059.3626] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T15:30:59+03:00 client2 NetworkManager[1047]: <info>  [1547037059.3626] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T15:30:59+03:00 client2 NetworkManager[1047]: <info>  [1547037059.3626] dhcp4 (eth0): state changed bound -> bound
+2019-01-09T15:39:01+03:00 client2 NetworkManager[1047]: <info>  [1547037541.8941] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 2055-2054[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T15:45:02+03:00 client2 NetworkManager[1047]: <info>  [1547037902.6290] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T15:45:02+03:00 client2 NetworkManager[1047]: <info>  [1547037902.6297] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T15:45:02+03:00 client2 NetworkManager[1047]: <info>  [1547037902.6298] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T15:45:02+03:00 client2 NetworkManager[1047]: <info>  [1547037902.6298] dhcp4 (eth0):   lease time 1800
+2019-01-09T15:45:02+03:00 client2 NetworkManager[1047]: <info>  [1547037902.6299] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T15:45:02+03:00 client2 NetworkManager[1047]: <info>  [1547037902.6299] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T15:45:02+03:00 client2 NetworkManager[1047]: <info>  [1547037902.6299] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T15:45:02+03:00 client2 NetworkManager[1047]: <info>  [1547037902.6299] dhcp4 (eth0): state changed bound -> bound
+2019-01-09T15:45:55+03:00 client2 NetworkManager[1047]: <info>  [1547037955.9774] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 2469-2468[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T15:50:45+03:00 client2 NetworkManager[1047]: <info>  [1547038245.9612] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 2759-2758[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T15:57:56+03:00 client2 NetworkManager[1047]: <info>  [1547038676.7889] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T15:57:56+03:00 client2 NetworkManager[1047]: <info>  [1547038676.7890] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T15:57:56+03:00 client2 NetworkManager[1047]: <info>  [1547038676.7890] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T15:57:56+03:00 client2 NetworkManager[1047]: <info>  [1547038676.7890] dhcp4 (eth0):   lease time 1800
+2019-01-09T15:57:56+03:00 client2 NetworkManager[1047]: <info>  [1547038676.7890] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T15:57:56+03:00 client2 NetworkManager[1047]: <info>  [1547038676.7890] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T15:57:56+03:00 client2 NetworkManager[1047]: <info>  [1547038676.7890] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T15:57:56+03:00 client2 NetworkManager[1047]: <info>  [1547038676.7890] dhcp4 (eth0): state changed bound -> bound
+2019-01-09T15:58:22+03:00 client2 NetworkManager[1047]: <info>  [1547038702.9964] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 3216-3215[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T16:06:51+03:00 client2 NetworkManager[1047]: <info>  [1547039211.9584] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 3725-3724[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T16:09:36+03:00 client2 NetworkManager[1047]: <info>  [1547039376.3413] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T16:09:36+03:00 client2 NetworkManager[1047]: <info>  [1547039376.3414] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T16:09:36+03:00 client2 NetworkManager[1047]: <info>  [1547039376.3414] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T16:09:36+03:00 client2 NetworkManager[1047]: <info>  [1547039376.3414] dhcp4 (eth0):   lease time 1800
+2019-01-09T16:09:36+03:00 client2 NetworkManager[1047]: <info>  [1547039376.3414] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T16:09:36+03:00 client2 NetworkManager[1047]: <info>  [1547039376.3414] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T16:09:36+03:00 client2 NetworkManager[1047]: <info>  [1547039376.3414] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T16:09:36+03:00 client2 NetworkManager[1047]: <info>  [1547039376.3414] dhcp4 (eth0): state changed bound -> bound
+2019-01-09T16:11:34+03:00 client2 NetworkManager[1047]: <info>  [1547039494.3006] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 4007-4006[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T16:19:02+03:00 client2 NetworkManager[1047]: <info>  [1547039942.6551] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0/64 lft 2591999sec pref 604799sec lifetime 4456-4455[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-09T16:23:29+03:00 client2 NetworkManager[1047]: <info>  [1547040209.6363] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T16:23:29+03:00 client2 NetworkManager[1047]: <info>  [1547040209.6366] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T16:23:29+03:00 client2 NetworkManager[1047]: <info>  [1547040209.6366] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T16:23:29+03:00 client2 NetworkManager[1047]: <info>  [1547040209.6367] dhcp4 (eth0):   lease time 1800
+2019-01-09T16:23:29+03:00 client2 NetworkManager[1047]: <info>  [1547040209.6367] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T16:23:29+03:00 client2 NetworkManager[1047]: <info>  [1547040209.6367] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T16:23:29+03:00 client2 NetworkManager[1047]: <info>  [1547040209.6367] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T16:23:29+03:00 client2 NetworkManager[1047]: <info>  [1547040209.6367] dhcp4 (eth0): state changed bound -> bound
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.1169] device (eth0): carrier: link connected
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.1205] device (eth0): DHCPv4 lease renewal requested
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.1414] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 1183
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.1417] dhcp4 (eth0): state changed bound -> done
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.1481] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.1614] dhcp4 (eth0): dhclient started with pid 18420
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.1616] device (eth0): DHCPv6 lease renewal requested
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.1634] dhcp6 (eth0): canceled DHCP transaction
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.1654] dhcp6 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.1724] dhcp6 (eth0): dhclient started with pid 18421
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.2899] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.2900] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.2900] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.2900] dhcp4 (eth0):   lease time 1800
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.2900] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.2900] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.2900] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T16:25:17+03:00 client2 NetworkManager[1047]: <info>  [1547040317.2900] dhcp4 (eth0): state changed unknown -> bound
+2019-01-09T16:25:52+03:00 client2 NetworkManager[1047]: <info>  [1547040352.9686] device (eth0): state change: activated -> unavailable (reason 'carrier-changed', sys-iface-state: 'managed')
+2019-01-09T16:25:52+03:00 client2 NetworkManager[1047]: <info>  [1547040352.9798] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 18420
+2019-01-09T16:25:52+03:00 client2 NetworkManager[1047]: <info>  [1547040352.9799] dhcp4 (eth0): state changed bound -> done
+2019-01-09T16:25:52+03:00 client2 NetworkManager[1047]: <info>  [1547040352.9830] dhcp6 (eth0): canceled DHCP transaction, DHCP client pid 18421
+2019-01-09T16:25:52+03:00 client2 NetworkManager[1047]: <info>  [1547040352.9830] dhcp6 (eth0): state changed unknown -> done
+2019-01-09T16:25:52+03:00 client2 NetworkManager[1047]: <info>  [1547040352.9918] manager: NetworkManager state is now CONNECTED_SITE
+2019-01-09T16:25:53+03:00 client2 NetworkManager[1047]: <info>  [1547040353.0571] manager: NetworkManager state is now CONNECTED_LOCAL
+2019-01-09T16:26:06+03:00 client2 NetworkManager[1047]: <info>  [1547040366.4139] device (eth0): carrier: link connected
+2019-01-09T16:26:06+03:00 client2 NetworkManager[1047]: <info>  [1547040366.4159] device (eth0): state change: unavailable -> disconnected (reason 'carrier-changed', sys-iface-state: 'managed')
+2019-01-09T16:26:06+03:00 client2 NetworkManager[1047]: <info>  [1547040366.4171] policy: auto-activating connection 'eth0'
+2019-01-09T16:26:06+03:00 client2 NetworkManager[1047]: <info>  [1547040366.4234] device (eth0): Activation: starting connection 'eth0' (9410076c-bee9-4886-af6c-537c17bcfee0)
+2019-01-09T16:26:06+03:00 client2 NetworkManager[1047]: <info>  [1547040366.4240] device (eth0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+2019-01-09T16:26:06+03:00 client2 NetworkManager[1047]: <info>  [1547040366.4242] manager: NetworkManager state is now CONNECTING
+2019-01-09T16:26:06+03:00 client2 NetworkManager[1047]: <info>  [1547040366.4246] device (eth0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+2019-01-09T16:26:07+03:00 client2 NetworkManager[1047]: <info>  [1547040367.6255] device (eth0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+2019-01-09T16:26:07+03:00 client2 NetworkManager[1047]: <info>  [1547040367.6260] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-09T16:26:07+03:00 client2 NetworkManager[1047]: <info>  [1547040367.6382] dhcp4 (eth0): dhclient started with pid 18663
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0209] dhcp4 (eth0):   address 10.211.55.21
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0213] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0213] dhcp4 (eth0):   gateway 10.211.55.1
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0213] dhcp4 (eth0):   lease time 1800
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0213] dhcp4 (eth0):   hostname 'client2'
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0214] dhcp4 (eth0):   nameserver '10.211.55.1'
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0214] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0214] dhcp4 (eth0): state changed unknown -> bound
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0267] device (eth0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0275] device (eth0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0277] device (eth0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.0279] manager: NetworkManager state is now CONNECTED_LOCAL
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.1935] manager: NetworkManager state is now CONNECTED_SITE
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.1937] policy: set 'eth0' (eth0) as default for IPv4 routing and DNS
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.2523] device (eth0): Activation: successful, device activated.
+2019-01-09T16:26:08+03:00 client2 NetworkManager[1047]: <info>  [1547040368.2575] manager: NetworkManager state is now CONNECTED_GLOBAL
+2019-01-09T16:26:13+03:00 client2 NetworkManager[1047]: <info>  [1547040373.6178] dhcp6 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-09T16:26:13+03:00 client2 NetworkManager[1047]: <info>  [1547040373.6205] dhcp6 (eth0): dhclient started with pid 18729
+2019-01-09T16:26:13+03:00 client2 NetworkManager[1047]: <info>  [1547040373.6236] policy: set 'eth0' (eth0) as default for IPv6 routing and DNS
+2019-01-09T16:26:13+03:00 client2 NetworkManager[1047]: <info>  [1547040373.7624] dhcp6 (eth0):   nameserver 'fe80::21c:42ff:fe00:18'
+2019-01-09T16:26:13+03:00 client2 NetworkManager[1047]: <info>  [1547040373.7625] dhcp6 (eth0): state changed unknown -> bound
+2019-01-09T16:26:13+03:00 client2 NetworkManager[1047]: <info>  [1547040373.7696] dhcp6 (eth0): client pid 18729 exited with status 0
+2019-01-09T16:26:13+03:00 client2 NetworkManager[1047]: <info>  [1547040373.7696] dhcp6 (eth0): state changed bound -> done

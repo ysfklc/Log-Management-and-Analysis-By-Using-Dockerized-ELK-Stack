@@ -1,0 +1,2 @@
+2019-01-09T15:04:55+03:00 client2 spice-vdagent[2120]: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0
+2019-01-09T15:06:52+03:00 client2 spice-vdagent[3048]: Cannot access vdagent virtio channel /dev/virtio-ports/com.redhat.spice.0

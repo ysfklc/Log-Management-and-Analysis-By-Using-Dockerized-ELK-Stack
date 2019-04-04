@@ -1,0 +1,4 @@
+2019-01-09T15:04:52+03:00 client2 org.a11y.Bus: Activating service name='org.a11y.atspi.Registry'
+2019-01-09T15:04:52+03:00 client2 org.a11y.Bus: Successfully activated service 'org.a11y.atspi.Registry'
+2019-01-09T15:06:50+03:00 client2 org.a11y.Bus: Activating service name='org.a11y.atspi.Registry'
+2019-01-09T15:06:50+03:00 client2 org.a11y.Bus: Successfully activated service 'org.a11y.atspi.Registry'

@@ -1,0 +1,2 @@
+2019-01-09T15:04:46+03:00 client2 rngd: Failed to init entropy source 0: Hardware RNG Device
+2019-01-09T15:04:46+03:00 client2 rngd: Failed to init entropy source 1: TPM RNG Device

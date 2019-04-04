@@ -1,0 +1,11 @@
+2019-01-09T15:04:47+03:00 client2 smartd[717]: smartd 6.5 2016-05-07 r4318 [x86_64-linux-3.10.0-862.11.6.el7.x86_64] (local build)
+2019-01-09T15:04:47+03:00 client2 smartd[717]: Copyright (C) 2002-16, Bruce Allen, Christian Franke, www.smartmontools.org
+2019-01-09T15:04:47+03:00 client2 smartd[717]: Opened configuration file /etc/smartmontools/smartd.conf
+2019-01-09T15:04:47+03:00 client2 smartd[717]: Configuration file /etc/smartmontools/smartd.conf was parsed, found DEVICESCAN, scanning devices
+2019-01-09T15:04:47+03:00 client2 smartd[717]: Device: /dev/sda, type changed from 'scsi' to 'sat'
+2019-01-09T15:04:47+03:00 client2 smartd[717]: Device: /dev/sda [SAT], opened
+2019-01-09T15:04:47+03:00 client2 smartd[717]: Device: /dev/sda [SAT], CentOS Linux 7-0 SSD, S/N:RSQDEVQ5RVR45EJJ1V33, FW:F.ZDSG90, 68.7 GB
+2019-01-09T15:04:47+03:00 client2 smartd[717]: Device: /dev/sda [SAT], not found in smartd database.
+2019-01-09T15:04:47+03:00 client2 smartd[717]: Device: /dev/sda [SAT], lacks SMART capability
+2019-01-09T15:04:47+03:00 client2 smartd[717]: Device: /dev/sda [SAT], to proceed anyway, use '-T permissive' Directive.
+2019-01-09T15:04:47+03:00 client2 smartd[717]: Monitoring 0 ATA/SATA, 0 SCSI/SAS and 0 NVMe devices

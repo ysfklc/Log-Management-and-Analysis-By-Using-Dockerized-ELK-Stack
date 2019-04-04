@@ -1,0 +1,6 @@
+2019-01-09T01:59:17+03:00 client2 org.gnome.Shell.desktop: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3a00007 (wordpress-)
+2019-01-09T02:00:58+03:00 client2 org.gnome.Shell.desktop: Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3400006 (root@clien)
+2019-01-09T15:01:43+03:00 client2 org.gnome.Shell.desktop: current session already has an ibus-daemon.
+2019-01-09T15:01:47+03:00 client2 org.gnome.Shell.desktop: Window manager warning: "XF86RFKill" is not a valid accelerator
+2019-01-09T15:04:57+03:00 client2 org.gnome.Shell.desktop: Window manager warning: "XF86RFKill" is not a valid accelerator
+2019-01-09T15:06:55+03:00 client2 org.gnome.Shell.desktop: Window manager warning: "XF86RFKill" is not a valid accelerator

@@ -1,0 +1,45 @@
+2019-01-09T02:42:01+03:00 client2 avahi-daemon[741]: Withdrawing address record for fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0 on eth0.
+2019-01-09T02:42:01+03:00 client2 avahi-daemon[741]: Registering new address record for fe80::d41a:a6de:73c6:70fd on eth0.*.
+2019-01-09T02:42:01+03:00 client2 avahi-daemon[741]: Withdrawing address record for fe80::d41a:a6de:73c6:70fd on eth0.
+2019-01-09T02:42:01+03:00 client2 avahi-daemon[741]: Withdrawing address record for 10.211.55.21 on eth0.
+2019-01-09T02:42:01+03:00 client2 avahi-daemon[741]: Leaving mDNS multicast group on interface eth0.IPv4 with address 10.211.55.21.
+2019-01-09T02:42:01+03:00 client2 avahi-daemon[741]: Interface eth0.IPv4 no longer relevant for mDNS.
+2019-01-09T15:01:42+03:00 client2 avahi-daemon[741]: Joining mDNS multicast group on interface eth0.IPv4 with address 10.211.55.21.
+2019-01-09T15:01:42+03:00 client2 avahi-daemon[741]: New relevant interface eth0.IPv4 for mDNS.
+2019-01-09T15:01:42+03:00 client2 avahi-daemon[741]: Registering new address record for 10.211.55.21 on eth0.IPv4.
+2019-01-09T15:01:42+03:00 client2 avahi-daemon[741]: Registering new address record for fe80::d41a:a6de:73c6:70fd on eth0.*.
+2019-01-09T15:01:44+03:00 client2 avahi-daemon[741]: Registering new address record for fe80::feb7:82bd:f4e3:6f67 on eth0.*.
+2019-01-09T15:01:47+03:00 client2 avahi-daemon[741]: Registering new address record for fdb2:2c26:f4e4:0:294b:e857:5bbc:24b on eth0.*.
+2019-01-09T15:01:47+03:00 client2 avahi-daemon[741]: Withdrawing address record for fe80::feb7:82bd:f4e3:6f67 on eth0.
+2019-01-09T15:01:47+03:00 client2 avahi-daemon[741]: Withdrawing address record for fe80::d41a:a6de:73c6:70fd on eth0.
+2019-01-09T15:04:46+03:00 client2 avahi-daemon[696]: Found user 'avahi' (UID 70) and group 'avahi' (GID 70).
+2019-01-09T15:04:46+03:00 client2 avahi-daemon[696]: Successfully dropped root privileges.
+2019-01-09T15:04:46+03:00 client2 avahi-daemon[696]: avahi-daemon 0.6.31 starting up.
+2019-01-09T15:04:46+03:00 client2 avahi-daemon[696]: WARNING: No NSS support for mDNS detected, consider installing nss-mdns!
+2019-01-09T15:04:46+03:00 client2 avahi-daemon[696]: Successfully called chroot().
+2019-01-09T15:04:46+03:00 client2 avahi-daemon[696]: Successfully dropped remaining capabilities.
+2019-01-09T15:04:46+03:00 client2 avahi-daemon[696]: No service file found in /etc/avahi/services.
+2019-01-09T15:04:46+03:00 client2 avahi-daemon[696]: Network interface enumeration completed.
+2019-01-09T15:04:46+03:00 client2 avahi-daemon[696]: Registering HINFO record with values 'X86_64'/'LINUX'.
+2019-01-09T15:04:46+03:00 client2 avahi-daemon[696]: Server startup complete. Host name is client2.local. Local service cookie is 3957597066.
+2019-01-09T15:04:48+03:00 client2 avahi-daemon[696]: Joining mDNS multicast group on interface eth0.IPv4 with address 10.211.55.21.
+2019-01-09T15:04:48+03:00 client2 avahi-daemon[696]: New relevant interface eth0.IPv4 for mDNS.
+2019-01-09T15:04:48+03:00 client2 avahi-daemon[696]: Registering new address record for 10.211.55.21 on eth0.IPv4.
+2019-01-09T15:04:49+03:00 client2 avahi-daemon[696]: Registering new address record for fe80::d41a:a6de:73c6:70fd on eth0.*.
+2019-01-09T15:04:50+03:00 client2 avahi-daemon[696]: Registering new address record for fe80::feb7:82bd:f4e3:6f67 on eth0.*.
+2019-01-09T15:04:51+03:00 client2 avahi-daemon[696]: Joining mDNS multicast group on interface virbr0.IPv4 with address 192.168.122.1.
+2019-01-09T15:04:51+03:00 client2 avahi-daemon[696]: New relevant interface virbr0.IPv4 for mDNS.
+2019-01-09T15:04:51+03:00 client2 avahi-daemon[696]: Registering new address record for 192.168.122.1 on virbr0.IPv4.
+2019-01-09T15:04:52+03:00 client2 avahi-daemon[696]: Registering new address record for fdb2:2c26:f4e4:0:294b:e857:5bbc:24b on eth0.*.
+2019-01-09T15:04:52+03:00 client2 avahi-daemon[696]: Withdrawing address record for fe80::feb7:82bd:f4e3:6f67 on eth0.
+2019-01-09T15:04:52+03:00 client2 avahi-daemon[696]: Withdrawing address record for fe80::d41a:a6de:73c6:70fd on eth0.
+2019-01-09T16:25:53+03:00 client2 avahi-daemon[696]: Withdrawing address record for 10.211.55.21 on eth0.
+2019-01-09T16:25:53+03:00 client2 avahi-daemon[696]: Leaving mDNS multicast group on interface eth0.IPv4 with address 10.211.55.21.
+2019-01-09T16:25:53+03:00 client2 avahi-daemon[696]: Interface eth0.IPv4 no longer relevant for mDNS.
+2019-01-09T16:25:53+03:00 client2 avahi-daemon[696]: Withdrawing address record for fdb2:2c26:f4e4:0:294b:e857:5bbc:24b on eth0.
+2019-01-09T16:26:08+03:00 client2 avahi-daemon[696]: Joining mDNS multicast group on interface eth0.IPv4 with address 10.211.55.21.
+2019-01-09T16:26:08+03:00 client2 avahi-daemon[696]: New relevant interface eth0.IPv4 for mDNS.
+2019-01-09T16:26:08+03:00 client2 avahi-daemon[696]: Registering new address record for 10.211.55.21 on eth0.IPv4.
+2019-01-09T16:26:09+03:00 client2 avahi-daemon[696]: Registering new address record for fe80::d41a:a6de:73c6:70fd on eth0.*.
+2019-01-09T16:26:14+03:00 client2 avahi-daemon[696]: Registering new address record for fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0 on eth0.*.
+2019-01-09T16:26:14+03:00 client2 avahi-daemon[696]: Withdrawing address record for fe80::d41a:a6de:73c6:70fd on eth0.

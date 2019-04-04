@@ -1,0 +1,8 @@
+2019-01-09T02:32:30+03:00 client2 pulseaudio: ALSA woke us up to write new data to the device, but there was actually nothing to write.
+2019-01-09T02:32:30+03:00 client2 pulseaudio: Most likely this is a bug in the ALSA driver 'snd_intel8x0'. Please report this issue to the ALSA developers.
+2019-01-09T02:32:30+03:00 client2 pulseaudio: We were woken up with POLLOUT set -- however a subsequent snd_pcm_avail() returned 0 or another value < min_avail.
+2019-01-09T15:04:53+03:00 client2 pulseaudio[1986]: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+2019-01-09T15:04:53+03:00 client2 pulseaudio[1986]: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+2019-01-09T15:06:53+03:00 client2 pulseaudio: Disabling timer-based scheduling because running inside a VM.
+2019-01-09T15:06:53+03:00 client2 pulseaudio: Disabling timer-based scheduling because running inside a VM.
+2019-01-09T15:07:18+03:00 client2 pulseaudio: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.

@@ -1,0 +1,5 @@
+2019-01-09T15:04:47+03:00 client2 systemd-logind: Watching system buttons on /dev/input/event0 (Power Button)
+2019-01-09T15:04:47+03:00 client2 systemd-logind: Watching system buttons on /dev/input/event1 (Sleep Button)
+2019-01-09T15:04:47+03:00 client2 systemd-logind: New seat seat0.
+2019-01-09T15:04:50+03:00 client2 systemd-logind: New session c2 of user gdm.
+2019-01-09T15:06:46+03:00 client2 systemd-logind: New session 1 of user root.

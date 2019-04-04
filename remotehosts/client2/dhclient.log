@@ -1,0 +1,63 @@
+2019-01-09T01:40:03+03:00 client2 dhclient[21363]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 5 (xid=0x42edb81f)
+2019-01-09T01:40:03+03:00 client2 dhclient[21363]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x42edb81f)
+2019-01-09T01:40:03+03:00 client2 dhclient[21363]: DHCPOFFER from 10.211.55.1
+2019-01-09T01:40:03+03:00 client2 dhclient[21363]: DHCPACK from 10.211.55.1 (xid=0x42edb81f)
+2019-01-09T01:40:03+03:00 client2 dhclient[21363]: bound to 10.211.55.21 -- renewal in 694 seconds.
+2019-01-09T01:51:37+03:00 client2 dhclient[21363]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x42edb81f)
+2019-01-09T01:51:37+03:00 client2 dhclient[21363]: DHCPACK from 10.211.55.1 (xid=0x42edb81f)
+2019-01-09T01:51:37+03:00 client2 dhclient[21363]: bound to 10.211.55.21 -- renewal in 795 seconds.
+2019-01-09T02:04:52+03:00 client2 dhclient[21363]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x42edb81f)
+2019-01-09T02:04:52+03:00 client2 dhclient[21363]: DHCPACK from 10.211.55.1 (xid=0x42edb81f)
+2019-01-09T02:04:52+03:00 client2 dhclient[21363]: bound to 10.211.55.21 -- renewal in 859 seconds.
+2019-01-09T02:19:11+03:00 client2 dhclient[21363]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x42edb81f)
+2019-01-09T02:19:11+03:00 client2 dhclient[21363]: DHCPACK from 10.211.55.1 (xid=0x42edb81f)
+2019-01-09T02:19:11+03:00 client2 dhclient[21363]: bound to 10.211.55.21 -- renewal in 826 seconds.
+2019-01-09T02:32:57+03:00 client2 dhclient[21363]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x42edb81f)
+2019-01-09T02:32:57+03:00 client2 dhclient[21363]: DHCPACK from 10.211.55.1 (xid=0x42edb81f)
+2019-01-09T02:32:57+03:00 client2 dhclient[21363]: bound to 10.211.55.21 -- renewal in 771 seconds.
+2019-01-09T15:01:42+03:00 client2 dhclient[6747]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 5 (xid=0x6125491d)
+2019-01-09T15:01:42+03:00 client2 dhclient[6747]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x6125491d)
+2019-01-09T15:01:42+03:00 client2 dhclient[6747]: DHCPOFFER from 10.211.55.1
+2019-01-09T15:01:42+03:00 client2 dhclient[6747]: DHCPACK from 10.211.55.1 (xid=0x6125491d)
+2019-01-09T15:01:42+03:00 client2 dhclient[6747]: bound to 10.211.55.21 -- renewal in 786 seconds.
+2019-01-09T15:01:45+03:00 client2 dhclient[6913]: XMT: Info-Request on eth0, interval 1070ms.
+2019-01-09T15:01:45+03:00 client2 dhclient[6913]: RCV: Reply message on eth0 from fe80::21c:42ff:fe00:18.
+2019-01-09T15:04:48+03:00 client2 dhclient[1183]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 4 (xid=0x54183711)
+2019-01-09T15:04:48+03:00 client2 dhclient[1183]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x54183711)
+2019-01-09T15:04:48+03:00 client2 dhclient[1183]: DHCPOFFER from 10.211.55.1
+2019-01-09T15:04:48+03:00 client2 dhclient[1183]: DHCPACK from 10.211.55.1 (xid=0x54183711)
+2019-01-09T15:04:48+03:00 client2 dhclient[1183]: bound to 10.211.55.21 -- renewal in 709 seconds.
+2019-01-09T15:04:50+03:00 client2 dhclient[1645]: XMT: Info-Request on eth0, interval 950ms.
+2019-01-09T15:04:50+03:00 client2 dhclient[1645]: RCV: Reply message on eth0 from fe80::21c:42ff:fe00:18.
+2019-01-09T15:16:37+03:00 client2 dhclient[1183]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x54183711)
+2019-01-09T15:16:37+03:00 client2 dhclient[1183]: DHCPACK from 10.211.55.1 (xid=0x54183711)
+2019-01-09T15:16:37+03:00 client2 dhclient[1183]: bound to 10.211.55.21 -- renewal in 862 seconds.
+2019-01-09T15:30:59+03:00 client2 dhclient[1183]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x54183711)
+2019-01-09T15:30:59+03:00 client2 dhclient[1183]: DHCPACK from 10.211.55.1 (xid=0x54183711)
+2019-01-09T15:30:59+03:00 client2 dhclient[1183]: bound to 10.211.55.21 -- renewal in 843 seconds.
+2019-01-09T15:45:02+03:00 client2 dhclient[1183]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x54183711)
+2019-01-09T15:45:02+03:00 client2 dhclient[1183]: DHCPACK from 10.211.55.1 (xid=0x54183711)
+2019-01-09T15:45:02+03:00 client2 dhclient[1183]: bound to 10.211.55.21 -- renewal in 774 seconds.
+2019-01-09T15:57:56+03:00 client2 dhclient[1183]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x54183711)
+2019-01-09T15:57:56+03:00 client2 dhclient[1183]: DHCPACK from 10.211.55.1 (xid=0x54183711)
+2019-01-09T15:57:56+03:00 client2 dhclient[1183]: bound to 10.211.55.21 -- renewal in 700 seconds.
+2019-01-09T16:09:36+03:00 client2 dhclient[1183]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x54183711)
+2019-01-09T16:09:36+03:00 client2 dhclient[1183]: DHCPACK from 10.211.55.1 (xid=0x54183711)
+2019-01-09T16:09:36+03:00 client2 dhclient[1183]: bound to 10.211.55.21 -- renewal in 833 seconds.
+2019-01-09T16:23:29+03:00 client2 dhclient[1183]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x54183711)
+2019-01-09T16:23:29+03:00 client2 dhclient[1183]: DHCPACK from 10.211.55.1 (xid=0x54183711)
+2019-01-09T16:23:29+03:00 client2 dhclient[1183]: bound to 10.211.55.21 -- renewal in 887 seconds.
+2019-01-09T16:25:17+03:00 client2 dhclient[18420]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x2916ccf9)
+2019-01-09T16:25:17+03:00 client2 dhclient[18420]: DHCPACK from 10.211.55.1 (xid=0x2916ccf9)
+2019-01-09T16:25:17+03:00 client2 dhclient[18420]: bound to 10.211.55.21 -- renewal in 719 seconds.
+2019-01-09T16:25:17+03:00 client2 dhclient[18421]: XMT: Solicit on eth0, interval 1080ms.
+2019-01-09T16:25:18+03:00 client2 dhclient[18421]: XMT: Solicit on eth0, interval 2200ms.
+2019-01-09T16:25:20+03:00 client2 dhclient[18421]: XMT: Solicit on eth0, interval 4350ms.
+2019-01-09T16:25:24+03:00 client2 dhclient[18421]: XMT: Solicit on eth0, interval 8320ms.
+2019-01-09T16:25:33+03:00 client2 dhclient[18421]: XMT: Solicit on eth0, interval 17020ms.
+2019-01-09T16:25:50+03:00 client2 dhclient[18421]: XMT: Solicit on eth0, interval 35430ms.
+2019-01-09T16:26:08+03:00 client2 dhclient[18663]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x65f24c1f)
+2019-01-09T16:26:08+03:00 client2 dhclient[18663]: DHCPACK from 10.211.55.1 (xid=0x65f24c1f)
+2019-01-09T16:26:08+03:00 client2 dhclient[18663]: bound to 10.211.55.21 -- renewal in 855 seconds.
+2019-01-09T16:26:13+03:00 client2 dhclient[18729]: XMT: Info-Request on eth0, interval 910ms.
+2019-01-09T16:26:13+03:00 client2 dhclient[18729]: RCV: Reply message on eth0 from fe80::21c:42ff:fe00:18.

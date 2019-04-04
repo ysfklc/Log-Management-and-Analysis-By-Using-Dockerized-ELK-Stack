@@ -1,0 +1,14 @@
+2019-01-09T15:04:46+03:00 client2 rtkit-daemon[716]: Successfully called chroot.
+2019-01-09T15:04:46+03:00 client2 rtkit-daemon[716]: Successfully dropped privileges.
+2019-01-09T15:04:46+03:00 client2 rtkit-daemon[716]: Successfully limited resources.
+2019-01-09T15:04:46+03:00 client2 rtkit-daemon[716]: Running.
+2019-01-09T15:04:46+03:00 client2 rtkit-daemon[716]: Watchdog thread running.
+2019-01-09T15:04:46+03:00 client2 rtkit-daemon[716]: Canary thread running.
+2019-01-09T15:04:53+03:00 client2 rtkit-daemon[716]: Successfully made thread 1986 of process 1986 (/usr/bin/pulseaudio) owned by '42' high priority at nice level -11.
+2019-01-09T15:04:53+03:00 client2 rtkit-daemon[716]: Supervising 1 threads of 1 processes of 1 users.
+2019-01-09T15:04:53+03:00 client2 rtkit-daemon[716]: Supervising 1 threads of 1 processes of 1 users.
+2019-01-09T15:04:53+03:00 client2 rtkit-daemon[716]: Successfully made thread 1996 of process 1986 (/usr/bin/pulseaudio) owned by '42' RT at priority 5.
+2019-01-09T15:04:53+03:00 client2 rtkit-daemon[716]: Supervising 2 threads of 1 processes of 1 users.
+2019-01-09T15:04:53+03:00 client2 rtkit-daemon[716]: Supervising 2 threads of 1 processes of 1 users.
+2019-01-09T15:04:53+03:00 client2 rtkit-daemon[716]: Successfully made thread 2002 of process 1986 (/usr/bin/pulseaudio) owned by '42' RT at priority 5.
+2019-01-09T15:04:53+03:00 client2 rtkit-daemon[716]: Supervising 3 threads of 1 processes of 1 users.

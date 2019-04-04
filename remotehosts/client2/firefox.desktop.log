@@ -1,0 +1,2 @@
+2019-01-09T02:02:14+03:00 client2 firefox.desktop: [Parent 24718, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builddir/build/BUILD/firefox-60.1.0/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+2019-01-09T02:02:41+03:00 client2 firefox.desktop: ###!!! [Parent][MessageChannel] Error: (msgtype=0x15007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv

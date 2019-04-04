@@ -1,0 +1,2 @@
+2019-01-09T15:04:49+03:00 client2 crond[1395]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 71% if used.)
+2019-01-09T15:04:51+03:00 client2 crond[1395]: (CRON) INFO (running with inotify support)

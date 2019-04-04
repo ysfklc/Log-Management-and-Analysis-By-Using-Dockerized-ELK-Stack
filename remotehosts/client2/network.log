@@ -1,0 +1,8 @@
+2019-01-09T02:42:01+03:00 client2 network: Shutting down interface eth0:  Device 'eth0' successfully disconnected.
+2019-01-09T02:42:01+03:00 client2 network: [  OK  ]
+2019-01-09T02:42:02+03:00 client2 network: Shutting down loopback interface:  [  OK  ]
+2019-01-09T15:01:41+03:00 client2 network: Bringing up loopback interface:  [  OK  ]
+2019-01-09T15:01:42+03:00 client2 network: Bringing up interface eth0:  Connection successfully activated (D-Bus active path: /org/freedesktop/NetworkManager/ActiveConnection/7)
+2019-01-09T15:01:42+03:00 client2 network: [  OK  ]
+2019-01-09T15:04:49+03:00 client2 network: Bringing up loopback interface:  [  OK  ]
+2019-01-09T15:04:49+03:00 client2 network: Bringing up interface eth0:  [  OK  ]

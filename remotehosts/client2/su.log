@@ -1,0 +1,6 @@
+2019-01-09T02:41:59+03:00 client2 su: (to parallels) root on none
+2019-01-09T02:42:01+03:00 client2 su: pam_unix(su:session): session opened for user parallels by (uid=0)
+2019-01-09T02:42:01+03:00 client2 su: pam_unix(su:session): session closed for user parallels
+2019-01-09T15:04:47+03:00 client2 su: (to parallels) root on none
+2019-01-09T15:04:49+03:00 client2 su: pam_unix(su:session): session opened for user parallels by (uid=0)
+2019-01-09T15:04:49+03:00 client2 su: pam_unix(su:session): session closed for user parallels

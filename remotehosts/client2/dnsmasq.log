@@ -1,0 +1,23 @@
+2019-01-09T02:42:01+03:00 client2 dnsmasq[1790]: reading /etc/resolv.conf
+2019-01-09T02:42:01+03:00 client2 dnsmasq[1790]: using nameserver fe80::21c:42ff:fe00:18%eth0#53
+2019-01-09T02:42:01+03:00 client2 dnsmasq[1790]: no servers found in /etc/resolv.conf, will retry
+2019-01-09T15:01:42+03:00 client2 dnsmasq[1790]: reading /etc/resolv.conf
+2019-01-09T15:01:42+03:00 client2 dnsmasq[1790]: using nameserver 10.211.55.1#53
+2019-01-09T15:01:45+03:00 client2 dnsmasq[1790]: reading /etc/resolv.conf
+2019-01-09T15:01:45+03:00 client2 dnsmasq[1790]: using nameserver 10.211.55.1#53
+2019-01-09T15:01:45+03:00 client2 dnsmasq[1790]: using nameserver fe80::21c:42ff:fe00:18%eth0#53
+2019-01-09T15:04:51+03:00 client2 dnsmasq[1810]: started, version 2.76 cachesize 150
+2019-01-09T15:04:51+03:00 client2 dnsmasq[1810]: compile time options: IPv6 GNU-getopt DBus no-i18n IDN DHCP DHCPv6 no-Lua TFTP no-conntrack ipset auth no-DNSSEC loop-detect inotify
+2019-01-09T15:04:51+03:00 client2 dnsmasq[1810]: reading /etc/resolv.conf
+2019-01-09T15:04:51+03:00 client2 dnsmasq[1810]: using nameserver 10.211.55.1#53
+2019-01-09T15:04:51+03:00 client2 dnsmasq[1810]: using nameserver fe80::21c:42ff:fe00:18%eth0#53
+2019-01-09T15:04:51+03:00 client2 dnsmasq[1810]: read /etc/hosts - 2 addresses
+2019-01-09T15:04:51+03:00 client2 dnsmasq[1810]: read /var/lib/libvirt/dnsmasq/default.addnhosts - 0 addresses
+2019-01-09T16:25:53+03:00 client2 dnsmasq[1810]: reading /etc/resolv.conf
+2019-01-09T16:25:53+03:00 client2 dnsmasq[1810]: using nameserver fe80::21c:42ff:fe00:18%eth0#53
+2019-01-09T16:25:53+03:00 client2 dnsmasq[1810]: no servers found in /etc/resolv.conf, will retry
+2019-01-09T16:26:08+03:00 client2 dnsmasq[1810]: reading /etc/resolv.conf
+2019-01-09T16:26:08+03:00 client2 dnsmasq[1810]: using nameserver 10.211.55.1#53
+2019-01-09T16:26:13+03:00 client2 dnsmasq[1810]: reading /etc/resolv.conf
+2019-01-09T16:26:13+03:00 client2 dnsmasq[1810]: using nameserver 10.211.55.1#53
+2019-01-09T16:26:13+03:00 client2 dnsmasq[1810]: using nameserver fe80::21c:42ff:fe00:18%eth0#53

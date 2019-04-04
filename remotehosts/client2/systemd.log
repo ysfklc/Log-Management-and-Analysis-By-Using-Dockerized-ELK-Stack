@@ -1,0 +1,547 @@
+2019-01-09T01:40:01+03:00 client2 systemd: Started Session 12 of user root.
+2019-01-09T01:40:01+03:00 client2 systemd: Starting Session 12 of user root.
+2019-01-09T01:40:03+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T01:40:03+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T01:50:01+03:00 client2 systemd: Started Session 13 of user root.
+2019-01-09T01:50:01+03:00 client2 systemd: Starting Session 13 of user root.
+2019-01-09T01:51:37+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T01:51:37+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T01:55:14+03:00 client2 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-09T01:55:14+03:00 client2 systemd: Started Fingerprint Authentication Daemon.
+2019-01-09T01:55:16+03:00 client2 systemd: Starting Hostname Service...
+2019-01-09T01:55:16+03:00 client2 systemd: Started Hostname Service.
+2019-01-09T01:56:17+03:00 client2 systemd: Starting Hostname Service...
+2019-01-09T01:56:17+03:00 client2 systemd: Started Hostname Service.
+2019-01-09T01:59:21+03:00 client2 systemd: Starting Hostname Service...
+2019-01-09T01:59:21+03:00 client2 systemd: Started Hostname Service.
+2019-01-09T02:00:01+03:00 client2 systemd: Started Session 14 of user root.
+2019-01-09T02:00:02+03:00 client2 systemd: Starting Session 14 of user root.
+2019-01-09T02:00:55+03:00 client2 systemd: Reloading.
+2019-01-09T02:01:01+03:00 client2 systemd: Started Session 15 of user root.
+2019-01-09T02:01:01+03:00 client2 systemd: Starting Session 15 of user root.
+2019-01-09T02:01:21+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:01:22+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:01:24+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:01:24+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:01:26+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:01:26+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:01:39+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:01:39+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:01:57+03:00 client2 systemd: Starting The Apache HTTP Server...
+2019-01-09T02:01:57+03:00 client2 systemd: Started The Apache HTTP Server.
+2019-01-09T02:02:43+03:00 client2 systemd: Starting Hostname Service...
+2019-01-09T02:02:44+03:00 client2 systemd: Started Hostname Service.
+2019-01-09T02:04:52+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T02:04:52+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T02:05:14+03:00 client2 systemd: Stopping The Apache HTTP Server...
+2019-01-09T02:05:15+03:00 client2 systemd: Starting The Apache HTTP Server...
+2019-01-09T02:05:16+03:00 client2 systemd: Started The Apache HTTP Server.
+2019-01-09T02:10:01+03:00 client2 systemd: Started Session 16 of user root.
+2019-01-09T02:10:01+03:00 client2 systemd: Starting Session 16 of user root.
+2019-01-09T02:11:35+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:11:36+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:11:37+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:11:38+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:11:40+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:11:40+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:11:41+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:11:41+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:17:10+03:00 client2 systemd: Reloading.
+2019-01-09T02:17:11+03:00 client2 systemd: Reloading.
+2019-01-09T02:17:12+03:00 client2 systemd: Reloading.
+2019-01-09T02:17:13+03:00 client2 systemd: Reloading.
+2019-01-09T02:17:13+03:00 client2 systemd: Stopping Postfix Mail Transport Agent...
+2019-01-09T02:17:13+03:00 client2 systemd: Starting Postfix Mail Transport Agent...
+2019-01-09T02:17:13+03:00 client2 systemd: Started Postfix Mail Transport Agent.
+2019-01-09T02:17:24+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:17:25+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:17:26+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:17:26+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:17:27+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:17:27+03:00 client2 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-09T02:17:28+03:00 client2 systemd: Starting MySQL Server...
+2019-01-09T02:17:35+03:00 client2 systemd: Started MySQL Server.
+2019-01-09T02:19:11+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T02:19:11+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T02:20:01+03:00 client2 systemd: Started Session 17 of user root.
+2019-01-09T02:20:01+03:00 client2 systemd: Starting Session 17 of user root.
+2019-01-09T02:20:22+03:00 client2 systemd: Stopping MySQL Server...
+2019-01-09T02:20:24+03:00 client2 systemd: Stopped MySQL Server.
+2019-01-09T02:20:37+03:00 client2 systemd: Starting MySQL Server...
+2019-01-09T02:20:41+03:00 client2 systemd: Started MySQL Server.
+2019-01-09T02:29:13+03:00 client2 systemd: Stopping The Apache HTTP Server...
+2019-01-09T02:29:15+03:00 client2 systemd: Starting The Apache HTTP Server...
+2019-01-09T02:29:15+03:00 client2 systemd: Started The Apache HTTP Server.
+2019-01-09T02:30:01+03:00 client2 systemd: Started Session 18 of user root.
+2019-01-09T02:30:01+03:00 client2 systemd: Starting Session 18 of user root.
+2019-01-09T02:32:57+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T02:32:57+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T02:39:34+03:00 client2 systemd: Stopping The Apache HTTP Server...
+2019-01-09T02:39:35+03:00 client2 systemd: Starting The Apache HTTP Server...
+2019-01-09T02:39:35+03:00 client2 systemd: Started The Apache HTTP Server.
+2019-01-09T02:40:01+03:00 client2 systemd: Started Session 19 of user root.
+2019-01-09T02:40:01+03:00 client2 systemd: Starting Session 19 of user root.
+2019-01-09T02:41:57+03:00 client2 systemd: Unit printer.target is not needed anymore. Stopping.
+2019-01-09T02:41:57+03:00 client2 systemd: Stopped target Printer.
+2019-01-09T02:41:57+03:00 client2 systemd: Stopping Printer.
+2019-01-09T02:41:58+03:00 client2 systemd: Stopping LSB: Bring up/down networking...
+2019-01-09T02:42:00+03:00 client2 systemd: Started Configure Plugged-In Printer.
+2019-01-09T02:42:00+03:00 client2 systemd: Starting Configure Plugged-In Printer...
+2019-01-09T02:42:00+03:00 client2 systemd: Reached target Printer.
+2019-01-09T02:42:00+03:00 client2 systemd: Starting Printer.
+2019-01-09T02:42:00+03:00 client2 systemd: Created slice User Slice of parallels.
+2019-01-09T02:42:00+03:00 client2 systemd: Starting User Slice of parallels.
+2019-01-09T02:42:01+03:00 client2 systemd: Started Session c6 of user parallels.
+2019-01-09T02:42:01+03:00 client2 systemd: Starting Session c6 of user parallels.
+2019-01-09T02:42:01+03:00 client2 systemd: Removed slice User Slice of parallels.
+2019-01-09T02:42:01+03:00 client2 systemd: Stopping User Slice of parallels.
+2019-01-09T02:42:01+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T02:42:01+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T02:42:01+03:00 client2 systemd: Starting Hostname Service...
+2019-01-09T02:42:02+03:00 client2 systemd: Started Hostname Service.
+2019-01-09T02:42:02+03:00 client2 systemd: Starting LSB: Bring up/down networking...
+2019-01-09T15:01:40+03:00 client2 systemd: Time has been changed
+2019-01-09T15:01:42+03:00 client2 systemd: Unit iscsi.service cannot be reloaded because it is inactive.
+2019-01-09T15:01:43+03:00 client2 systemd: Started LSB: Bring up/down networking.
+2019-01-09T15:01:45+03:00 client2 systemd: Starting Location Lookup Service...
+2019-01-09T15:01:45+03:00 client2 systemd: Started Configure Plugged-In Printer.
+2019-01-09T15:01:45+03:00 client2 systemd: Starting Configure Plugged-In Printer...
+2019-01-09T15:01:45+03:00 client2 systemd: Started Location Lookup Service.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: systemd 219 running in system mode. (+PAM +AUDIT +SELINUX +IMA -APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 -SECCOMP +BLKID +ELFUTILS +KMOD +IDN)
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Detected virtualization kvm.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Detected architecture x86-64.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Running in initial RAM disk.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Set hostname to <localhost.localdomain>.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Reached target Timers.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Timers.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Reached target Swap.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Swap.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Created slice Root Slice.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Root Slice.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Created slice System Slice.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting System Slice.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Listening on udev Kernel Socket.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting udev Kernel Socket.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Listening on udev Control Socket.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting udev Control Socket.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Reached target Slices.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Slices.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Listening on Journal Socket.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Journal Socket.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Reached target Sockets.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Sockets.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Journal Service...
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Setup Virtual Console...
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting dracut cmdline hook...
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Apply Kernel Variables...
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Create list of required static device nodes for the current kernel...
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Reached target Local File Systems.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Local File Systems.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Started Apply Kernel Variables.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Started Create list of required static device nodes for the current kernel.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Starting Create Static Device Nodes in /dev...
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Started Create Static Device Nodes in /dev.
+2019-01-09T15:04:39+03:00 client2 systemd[1]: Started Journal Service.
+2019-01-09T15:04:39+03:00 client2 systemd: Started Setup Virtual Console.
+2019-01-09T15:04:39+03:00 client2 systemd: Started dracut cmdline hook.
+2019-01-09T15:04:39+03:00 client2 systemd: Starting dracut pre-udev hook...
+2019-01-09T15:04:39+03:00 client2 systemd: Started dracut pre-udev hook.
+2019-01-09T15:04:39+03:00 client2 systemd: Starting udev Kernel Device Manager...
+2019-01-09T15:04:39+03:00 client2 systemd: Started udev Kernel Device Manager.
+2019-01-09T15:04:39+03:00 client2 systemd: Starting udev Coldplug all Devices...
+2019-01-09T15:04:39+03:00 client2 systemd: Mounting Configuration File System...
+2019-01-09T15:04:39+03:00 client2 systemd: Mounted Configuration File System.
+2019-01-09T15:04:39+03:00 client2 systemd: Started udev Coldplug all Devices.
+2019-01-09T15:04:39+03:00 client2 systemd: Starting Show Plymouth Boot Screen...
+2019-01-09T15:04:39+03:00 client2 systemd: Reached target System Initialization.
+2019-01-09T15:04:39+03:00 client2 systemd: Starting System Initialization.
+2019-01-09T15:04:39+03:00 client2 systemd: Starting dracut initqueue hook...
+2019-01-09T15:04:39+03:00 client2 systemd: Started Show Plymouth Boot Screen.
+2019-01-09T15:04:39+03:00 client2 systemd: Started Forward Password Requests to Plymouth Directory Watch.
+2019-01-09T15:04:39+03:00 client2 systemd: Starting Forward Password Requests to Plymouth Directory Watch.
+2019-01-09T15:04:39+03:00 client2 systemd: Reached target Paths.
+2019-01-09T15:04:39+03:00 client2 systemd: Starting Paths.
+2019-01-09T15:04:39+03:00 client2 systemd: Reached target Basic System.
+2019-01-09T15:04:39+03:00 client2 systemd: Starting Basic System.
+2019-01-09T15:04:41+03:00 client2 systemd: Found device /dev/mapper/cl-root.
+2019-01-09T15:04:41+03:00 client2 systemd: Starting File System Check on /dev/mapper/cl-root...
+2019-01-09T15:04:41+03:00 client2 systemd: Started File System Check on /dev/mapper/cl-root.
+2019-01-09T15:04:42+03:00 client2 systemd: Started dracut initqueue hook.
+2019-01-09T15:04:42+03:00 client2 systemd: Mounting /sysroot...
+2019-01-09T15:04:42+03:00 client2 systemd: Reached target Remote File Systems (Pre).
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Remote File Systems (Pre).
+2019-01-09T15:04:42+03:00 client2 systemd: Reached target Remote File Systems.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Remote File Systems.
+2019-01-09T15:04:42+03:00 client2 systemd: Mounted /sysroot.
+2019-01-09T15:04:42+03:00 client2 systemd: Reached target Initrd Root File System.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Initrd Root File System.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Reload Configuration from the Real Root...
+2019-01-09T15:04:42+03:00 client2 systemd: Reloading.
+2019-01-09T15:04:42+03:00 client2 systemd: Started Reload Configuration from the Real Root.
+2019-01-09T15:04:42+03:00 client2 systemd: Reached target Initrd File Systems.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Initrd File Systems.
+2019-01-09T15:04:42+03:00 client2 systemd: Reached target Initrd Default Target.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Initrd Default Target.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting dracut pre-pivot and cleanup hook...
+2019-01-09T15:04:42+03:00 client2 systemd: Started dracut pre-pivot and cleanup hook.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Cleaning Up and Shutting Down Daemons...
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Plymouth switch root service...
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target Timers.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Timers.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped Cleaning Up and Shutting Down Daemons.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped dracut pre-pivot and cleanup hook.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping dracut pre-pivot and cleanup hook...
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target Remote File Systems.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Remote File Systems.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target Remote File Systems (Pre).
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Remote File Systems (Pre).
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped dracut initqueue hook.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping dracut initqueue hook...
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target Initrd Default Target.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Initrd Default Target.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target Basic System.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Basic System.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target Slices.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Slices.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target Paths.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Paths.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target Sockets.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Sockets.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target System Initialization.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping System Initialization.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped udev Coldplug all Devices.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping udev Coldplug all Devices...
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target Local File Systems.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Local File Systems.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping udev Kernel Device Manager...
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped Apply Kernel Variables.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Apply Kernel Variables...
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped target Swap.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Swap.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped udev Kernel Device Manager.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped Create Static Device Nodes in /dev.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Create Static Device Nodes in /dev...
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped Create list of required static device nodes for the current kernel.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping Create list of required static device nodes for the current kernel...
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped dracut pre-udev hook.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping dracut pre-udev hook...
+2019-01-09T15:04:42+03:00 client2 systemd: Stopped dracut cmdline hook.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping dracut cmdline hook...
+2019-01-09T15:04:42+03:00 client2 systemd: Closed udev Control Socket.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping udev Control Socket.
+2019-01-09T15:04:42+03:00 client2 systemd: Closed udev Kernel Socket.
+2019-01-09T15:04:42+03:00 client2 systemd: Stopping udev Kernel Socket.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Cleanup udevd DB...
+2019-01-09T15:04:42+03:00 client2 systemd: Started Plymouth switch root service.
+2019-01-09T15:04:42+03:00 client2 systemd: Started Cleanup udevd DB.
+2019-01-09T15:04:42+03:00 client2 systemd: Reached target Switch Root.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Switch Root.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Switch Root...
+2019-01-09T15:04:42+03:00 client2 systemd: Switching root.
+2019-01-09T15:04:42+03:00 client2 systemd[1]: Successfully loaded SELinux policy in 109.023ms.
+2019-01-09T15:04:42+03:00 client2 systemd[1]: Inserted module 'ip_tables'
+2019-01-09T15:04:42+03:00 client2 systemd[1]: Relabelled /dev and /run in 13.799ms.
+2019-01-09T15:04:42+03:00 client2 systemd: systemd 219 running in system mode. (+PAM +AUDIT +SELINUX +IMA -APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 -SECCOMP +BLKID +ELFUTILS +KMOD +IDN)
+2019-01-09T15:04:42+03:00 client2 systemd: Detected virtualization kvm.
+2019-01-09T15:04:42+03:00 client2 systemd: Detected architecture x86-64.
+2019-01-09T15:04:42+03:00 client2 systemd: Set hostname to <client2.localdomain>.
+2019-01-09T15:04:42+03:00 client2 systemd: Started Read and set NIS domainname from /etc/sysconfig/network.
+2019-01-09T15:04:42+03:00 client2 systemd: Started Create list of required static device nodes for the current kernel.
+2019-01-09T15:04:42+03:00 client2 systemd: Started Apply Kernel Variables.
+2019-01-09T15:04:42+03:00 client2 systemd: Started Remount Root and Kernel File Systems.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Configure read-only root support...
+2019-01-09T15:04:42+03:00 client2 systemd: Starting udev Coldplug all Devices...
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Load/Save Random Seed...
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Create Static Device Nodes in /dev...
+2019-01-09T15:04:42+03:00 client2 systemd: Starting Flush Journal to Persistent Storage...
+2019-01-09T15:04:42+03:00 client2 systemd: Started Load/Save Random Seed.
+2019-01-09T15:04:42+03:00 client2 systemd: Started LVM2 metadata daemon.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting LVM2 metadata daemon...
+2019-01-09T15:04:42+03:00 client2 systemd: Started Flush Journal to Persistent Storage.
+2019-01-09T15:04:42+03:00 client2 systemd: Started Configure read-only root support.
+2019-01-09T15:04:42+03:00 client2 systemd: Started Create Static Device Nodes in /dev.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting udev Kernel Device Manager...
+2019-01-09T15:04:42+03:00 client2 systemd: Started udev Coldplug all Devices.
+2019-01-09T15:04:42+03:00 client2 systemd: Starting udev Wait for Complete Device Initialization...
+2019-01-09T15:04:43+03:00 client2 systemd: Started udev Kernel Device Manager.
+2019-01-09T15:04:43+03:00 client2 systemd: Created slice system-lvm2\x2dpvscan.slice.
+2019-01-09T15:04:43+03:00 client2 systemd: Starting system-lvm2\x2dpvscan.slice.
+2019-01-09T15:04:43+03:00 client2 systemd: Starting LVM2 PV scan on device 8:2...
+2019-01-09T15:04:43+03:00 client2 systemd: Found device CentOS_Linux_7-0_SSD 1.
+2019-01-09T15:04:43+03:00 client2 systemd: Started Monitoring of LVM2 mirrors, snapshots etc. using dmeventd or progress polling.
+2019-01-09T15:04:43+03:00 client2 systemd: Reached target Local File Systems (Pre).
+2019-01-09T15:04:43+03:00 client2 systemd: Starting Local File Systems (Pre).
+2019-01-09T15:04:43+03:00 client2 systemd: Mounting /boot...
+2019-01-09T15:04:43+03:00 client2 systemd: Found device /dev/mapper/cl-swap.
+2019-01-09T15:04:43+03:00 client2 systemd: Activating swap /dev/mapper/cl-swap...
+2019-01-09T15:04:43+03:00 client2 systemd: Activated swap /dev/mapper/cl-swap.
+2019-01-09T15:04:43+03:00 client2 systemd: Reached target Swap.
+2019-01-09T15:04:43+03:00 client2 systemd: Starting Swap.
+2019-01-09T15:04:43+03:00 client2 systemd: Mounted /boot.
+2019-01-09T15:04:43+03:00 client2 systemd: Started LVM2 PV scan on device 8:2.
+2019-01-09T15:04:43+03:00 client2 systemd: Found device /dev/mapper/cl-home.
+2019-01-09T15:04:43+03:00 client2 systemd: Mounting /home...
+2019-01-09T15:04:43+03:00 client2 systemd: Mounted /home.
+2019-01-09T15:04:44+03:00 client2 systemd: Reached target Sound Card.
+2019-01-09T15:04:44+03:00 client2 systemd: Starting Sound Card.
+2019-01-09T15:04:44+03:00 client2 systemd: Received SIGRTMIN+20 from PID 268 (plymouthd).
+2019-01-09T15:04:46+03:00 client2 systemd: Started udev Wait for Complete Device Initialization.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Activation of DM RAID sets...
+2019-01-09T15:04:46+03:00 client2 systemd: Started Activation of DM RAID sets.
+2019-01-09T15:04:46+03:00 client2 systemd: Reached target Local Encrypted Volumes.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Local Encrypted Volumes.
+2019-01-09T15:04:46+03:00 client2 systemd: Reached target Local File Systems.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Local File Systems.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Import network configuration from initramfs...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Preprocess NFS configuration...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Tell Plymouth To Write Out Runtime Data...
+2019-01-09T15:04:46+03:00 client2 systemd: Started Preprocess NFS configuration.
+2019-01-09T15:04:46+03:00 client2 systemd: Started Tell Plymouth To Write Out Runtime Data.
+2019-01-09T15:04:46+03:00 client2 systemd: Started Import network configuration from initramfs.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Create Volatile Files and Directories...
+2019-01-09T15:04:46+03:00 client2 systemd: Started Create Volatile Files and Directories.
+2019-01-09T15:04:46+03:00 client2 systemd: Mounting RPC Pipe File System...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Security Auditing Service...
+2019-01-09T15:04:46+03:00 client2 systemd: Mounted RPC Pipe File System.
+2019-01-09T15:04:46+03:00 client2 systemd: Reached target rpc_pipefs.target.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting rpc_pipefs.target.
+2019-01-09T15:04:46+03:00 client2 systemd: Started Security Auditing Service.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Update UTMP about System Boot/Shutdown...
+2019-01-09T15:04:46+03:00 client2 systemd: Started Update UTMP about System Boot/Shutdown.
+2019-01-09T15:04:46+03:00 client2 systemd: Reached target System Initialization.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting System Initialization.
+2019-01-09T15:04:46+03:00 client2 systemd: Listening on Open-iSCSI iscsid Socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Open-iSCSI iscsid Socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Listening on Avahi mDNS/DNS-SD Stack Activation Socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Avahi mDNS/DNS-SD Stack Activation Socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Listening on D-Bus System Message Bus Socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting D-Bus System Message Bus Socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Started CUPS Printer Service Spool.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting CUPS Printer Service Spool.
+2019-01-09T15:04:46+03:00 client2 systemd: Started Flexible branding.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Flexible branding.
+2019-01-09T15:04:46+03:00 client2 systemd: Reached target Paths.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Paths.
+2019-01-09T15:04:46+03:00 client2 systemd: Listening on Virtual machine lock manager socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Virtual machine lock manager socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Listening on Virtual machine log manager socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Virtual machine log manager socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Listening on CUPS Printing Service Sockets.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting CUPS Printing Service Sockets.
+2019-01-09T15:04:46+03:00 client2 systemd: Listening on RPCbind Server Activation Socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting RPCbind Server Activation Socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Started Daily Cleanup of Temporary Directories.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Daily Cleanup of Temporary Directories.
+2019-01-09T15:04:46+03:00 client2 systemd: Reached target Timers.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Timers.
+2019-01-09T15:04:46+03:00 client2 systemd: Listening on Open-iSCSI iscsiuio Socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Open-iSCSI iscsiuio Socket.
+2019-01-09T15:04:46+03:00 client2 systemd: Reached target Sockets.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Sockets.
+2019-01-09T15:04:46+03:00 client2 systemd: Reached target Basic System.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Basic System.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Modem Manager...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Login Service...
+2019-01-09T15:04:46+03:00 client2 systemd: Started libstoragemgmt plug-in server daemon.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting libstoragemgmt plug-in server daemon...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Dump dmesg to /var/log/dmesg...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Avahi mDNS/DNS-SD Stack...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Authorization Manager...
+2019-01-09T15:04:46+03:00 client2 systemd: Started D-Bus System Message Bus.
+2019-01-09T15:04:46+03:00 client2 systemd: Started Avahi mDNS/DNS-SD Stack.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting D-Bus System Message Bus...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting GSSAPI Proxy Daemon...
+2019-01-09T15:04:46+03:00 client2 systemd: Started irqbalance daemon.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting irqbalance daemon...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Accounts Service...
+2019-01-09T15:04:46+03:00 client2 systemd: Started Hardware RNG Entropy Gatherer Daemon.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Hardware RNG Entropy Gatherer Daemon...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Resets System Activity Logs...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting RealtimeKit Scheduling Policy Service...
+2019-01-09T15:04:46+03:00 client2 systemd: Started Self Monitoring and Reporting Technology (SMART) Daemon.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Self Monitoring and Reporting Technology (SMART) Daemon...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting "Parallels Tools Updater"...
+2019-01-09T15:04:46+03:00 client2 systemd: Started Manage Sound Card State (restore and store).
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Manage Sound Card State (restore and store)...
+2019-01-09T15:04:46+03:00 client2 systemd: Started ABRT Automated Bug Reporting Tool.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting ABRT Automated Bug Reporting Tool...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Install ABRT coredump hook...
+2019-01-09T15:04:46+03:00 client2 systemd: Started ABRT Xorg log watcher.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting ABRT Xorg log watcher...
+2019-01-09T15:04:46+03:00 client2 systemd: Started ABRT kernel log watcher.
+2019-01-09T15:04:46+03:00 client2 systemd: Starting ABRT kernel log watcher...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Rollback uncommitted netcf network config change transactions...
+2019-01-09T15:04:46+03:00 client2 systemd: Starting Kernel Samepage Merging...
+2019-01-09T15:04:46+03:00 client2 systemd: Started Dump dmesg to /var/log/dmesg.
+2019-01-09T15:04:46+03:00 client2 systemd: Started GSSAPI Proxy Daemon.
+2019-01-09T15:04:46+03:00 client2 systemd: Started Resets System Activity Logs.
+2019-01-09T15:04:46+03:00 client2 systemd: Started Kernel Samepage Merging.
+2019-01-09T15:04:46+03:00 client2 systemd: Started Rollback uncommitted netcf network config change transactions.
+2019-01-09T15:04:47+03:00 client2 systemd: Started Modem Manager.
+2019-01-09T15:04:47+03:00 client2 systemd: Started RealtimeKit Scheduling Policy Service.
+2019-01-09T15:04:47+03:00 client2 systemd: Started Authorization Manager.
+2019-01-09T15:04:47+03:00 client2 systemd: Started Accounts Service.
+2019-01-09T15:04:47+03:00 client2 systemd: Started Login Service.
+2019-01-09T15:04:47+03:00 client2 systemd: Starting firewalld - dynamic firewall daemon...
+2019-01-09T15:04:47+03:00 client2 systemd: Starting Kernel Samepage Merging (KSM) Tuning Daemon...
+2019-01-09T15:04:47+03:00 client2 systemd: Reached target NFS client services.
+2019-01-09T15:04:47+03:00 client2 systemd: Starting NFS client services.
+2019-01-09T15:04:47+03:00 client2 systemd: Started Kernel Samepage Merging (KSM) Tuning Daemon.
+2019-01-09T15:04:47+03:00 client2 systemd: Started "Parallels Tools Updater".
+2019-01-09T15:04:47+03:00 client2 systemd: Starting Parallels Tools OpenGL switcher...
+2019-01-09T15:04:47+03:00 client2 systemd: Starting Parallels Tools Daemon...
+2019-01-09T15:04:47+03:00 client2 systemd: Started Install ABRT coredump hook.
+2019-01-09T15:04:47+03:00 client2 systemd: Started Parallels Tools Daemon.
+2019-01-09T15:04:47+03:00 client2 systemd: Started Parallels Tools OpenGL switcher.
+2019-01-09T15:04:47+03:00 client2 systemd: Started firewalld - dynamic firewall daemon.
+2019-01-09T15:04:47+03:00 client2 systemd: Reached target Network (Pre).
+2019-01-09T15:04:47+03:00 client2 systemd: Starting Network (Pre).
+2019-01-09T15:04:47+03:00 client2 systemd: Starting Network Manager...
+2019-01-09T15:04:47+03:00 client2 systemd: Starting Hostname Service...
+2019-01-09T15:04:47+03:00 client2 systemd: Started Hostname Service.
+2019-01-09T15:04:47+03:00 client2 systemd: Started Network Manager.
+2019-01-09T15:04:47+03:00 client2 systemd: Starting Network Manager Wait Online...
+2019-01-09T15:04:47+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T15:04:48+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T15:04:48+03:00 client2 systemd: Started Network Manager Wait Online.
+2019-01-09T15:04:48+03:00 client2 systemd: Starting LSB: Bring up/down networking...
+2019-01-09T15:04:49+03:00 client2 systemd: Started LSB: Bring up/down networking.
+2019-01-09T15:04:49+03:00 client2 systemd: Reached target Network.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Network.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Dynamic System Tuning Daemon...
+2019-01-09T15:04:49+03:00 client2 systemd: Started CUPS Printing Service.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting CUPS Printing Service...
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Logout off all iSCSI sessions on shutdown...
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Postfix Mail Transport Agent...
+2019-01-09T15:04:49+03:00 client2 systemd: Starting OpenSSH server daemon...
+2019-01-09T15:04:49+03:00 client2 systemd: Reached target Network is Online.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Network is Online.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Notify NFS peers of a restart...
+2019-01-09T15:04:49+03:00 client2 systemd: Starting System Logging Service...
+2019-01-09T15:04:49+03:00 client2 systemd: Started Logout off all iSCSI sessions on shutdown.
+2019-01-09T15:04:49+03:00 client2 systemd: Reached target Remote File Systems (Pre).
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Remote File Systems (Pre).
+2019-01-09T15:04:49+03:00 client2 systemd: Reached target Remote File Systems.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Remote File Systems.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Permit User Sessions...
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Crash recovery kernel arming...
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Virtualization daemon...
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Availability of block devices...
+2019-01-09T15:04:49+03:00 client2 systemd: Started Notify NFS peers of a restart.
+2019-01-09T15:04:49+03:00 client2 systemd: Started Availability of block devices.
+2019-01-09T15:04:49+03:00 client2 systemd: Started System Logging Service.
+2019-01-09T15:04:49+03:00 client2 systemd: Started Permit User Sessions.
+2019-01-09T15:04:49+03:00 client2 systemd: Created slice User Slice of parallels.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting User Slice of parallels.
+2019-01-09T15:04:49+03:00 client2 systemd: Started Command Scheduler.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Command Scheduler...
+2019-01-09T15:04:49+03:00 client2 systemd: Started Session c1 of user parallels.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Session c1 of user parallels.
+2019-01-09T15:04:49+03:00 client2 systemd: Started Job spooling tools.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Job spooling tools...
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Wait for Plymouth Boot Screen to Quit...
+2019-01-09T15:04:49+03:00 client2 systemd: Starting GNOME Display Manager...
+2019-01-09T15:04:49+03:00 client2 systemd: Started OpenSSH server daemon.
+2019-01-09T15:04:49+03:00 client2 systemd: Starting Manage, Install and Generate Color Profiles...
+2019-01-09T15:04:49+03:00 client2 systemd: Removed slice User Slice of parallels.
+2019-01-09T15:04:49+03:00 client2 systemd: Stopping User Slice of parallels.
+2019-01-09T15:04:49+03:00 client2 systemd: Started GNOME Display Manager.
+2019-01-09T15:04:49+03:00 client2 systemd: Started Manage, Install and Generate Color Profiles.
+2019-01-09T15:04:49+03:00 client2 systemd: Started Virtualization daemon.
+2019-01-09T15:04:50+03:00 client2 systemd: Created slice system-configure\x2dprinter.slice.
+2019-01-09T15:04:50+03:00 client2 systemd: Starting system-configure\x2dprinter.slice.
+2019-01-09T15:04:50+03:00 client2 systemd: Started Configure Plugged-In Printer.
+2019-01-09T15:04:50+03:00 client2 systemd: Starting Configure Plugged-In Printer...
+2019-01-09T15:04:50+03:00 client2 systemd: Reached target Printer.
+2019-01-09T15:04:50+03:00 client2 systemd: Starting Printer.
+2019-01-09T15:04:50+03:00 client2 systemd: Started Dynamic System Tuning Daemon.
+2019-01-09T15:04:50+03:00 client2 systemd: Created slice User Slice of gdm.
+2019-01-09T15:04:50+03:00 client2 systemd: Starting User Slice of gdm.
+2019-01-09T15:04:50+03:00 client2 systemd: Started Session c2 of user gdm.
+2019-01-09T15:04:50+03:00 client2 systemd: Starting Session c2 of user gdm.
+2019-01-09T15:04:51+03:00 client2 systemd: Started Postfix Mail Transport Agent.
+2019-01-09T15:04:51+03:00 client2 systemd: Unit iscsi.service cannot be reloaded because it is inactive.
+2019-01-09T15:04:52+03:00 client2 systemd: Unit iscsi.service cannot be reloaded because it is inactive.
+2019-01-09T15:04:52+03:00 client2 systemd: Started Configure Plugged-In Printer.
+2019-01-09T15:04:52+03:00 client2 systemd: Starting Configure Plugged-In Printer...
+2019-01-09T15:04:53+03:00 client2 systemd: Starting Daemon for power management...
+2019-01-09T15:04:53+03:00 client2 systemd: Started Daemon for power management.
+2019-01-09T15:04:53+03:00 client2 systemd: Started Crash recovery kernel arming.
+2019-01-09T15:04:53+03:00 client2 systemd: Starting Harvest vmcores for ABRT...
+2019-01-09T15:04:54+03:00 client2 systemd: Started Harvest vmcores for ABRT.
+2019-01-09T15:04:54+03:00 client2 systemd: Starting Locale Service...
+2019-01-09T15:04:55+03:00 client2 systemd: Started Locale Service.
+2019-01-09T15:04:55+03:00 client2 systemd: Starting Location Lookup Service...
+2019-01-09T15:04:55+03:00 client2 systemd: Starting WPA Supplicant daemon...
+2019-01-09T15:04:55+03:00 client2 systemd: Starting PackageKit Daemon...
+2019-01-09T15:04:55+03:00 client2 systemd: Started WPA Supplicant daemon.
+2019-01-09T15:04:55+03:00 client2 systemd: Started Location Lookup Service.
+2019-01-09T15:04:55+03:00 client2 systemd: Started PackageKit Daemon.
+2019-01-09T15:04:56+03:00 client2 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-09T15:04:56+03:00 client2 systemd: Started Fingerprint Authentication Daemon.
+2019-01-09T15:04:57+03:00 client2 systemd: Starting Realm and Domain Configuration...
+2019-01-09T15:04:57+03:00 client2 systemd: Started Realm and Domain Configuration.
+2019-01-09T15:04:58+03:00 client2 systemd: Received SIGRTMIN+21 from PID 268 (plymouthd).
+2019-01-09T15:04:58+03:00 client2 systemd: Started Wait for Plymouth Boot Screen to Quit.
+2019-01-09T15:04:58+03:00 client2 systemd: Reached target Multi-User System.
+2019-01-09T15:04:58+03:00 client2 systemd: Starting Multi-User System.
+2019-01-09T15:04:58+03:00 client2 systemd: Reached target Graphical Interface.
+2019-01-09T15:04:58+03:00 client2 systemd: Starting Graphical Interface.
+2019-01-09T15:04:58+03:00 client2 systemd: Starting Update UTMP about System Runlevel Changes...
+2019-01-09T15:04:58+03:00 client2 systemd: Started Update UTMP about System Runlevel Changes.
+2019-01-09T15:04:58+03:00 client2 systemd: Startup finished in 892ms (kernel) + 2.905s (initrd) + 16.546s (userspace) = 20.344s.
+2019-01-09T15:06:43+03:00 client2 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-09T15:06:43+03:00 client2 systemd: Started Fingerprint Authentication Daemon.
+2019-01-09T15:06:46+03:00 client2 systemd: Created slice User Slice of root.
+2019-01-09T15:06:46+03:00 client2 systemd: Starting User Slice of root.
+2019-01-09T15:06:46+03:00 client2 systemd: Started Session 1 of user root.
+2019-01-09T15:06:46+03:00 client2 systemd: Starting Session 1 of user root.
+2019-01-09T15:06:49+03:00 client2 systemd: Mounting FUSE Control File System...
+2019-01-09T15:06:49+03:00 client2 systemd: Mounted FUSE Control File System.
+2019-01-09T15:06:51+03:00 client2 systemd: Starting Location Lookup Service...
+2019-01-09T15:06:52+03:00 client2 systemd: Started Location Lookup Service.
+2019-01-09T15:06:52+03:00 client2 systemd: Starting Disk Manager...
+2019-01-09T15:06:52+03:00 client2 systemd: Started Disk Manager.
+2019-01-09T15:06:53+03:00 client2 systemd: Starting Hostname Service...
+2019-01-09T15:06:53+03:00 client2 systemd: Started Hostname Service.
+2019-01-09T15:06:54+03:00 client2 systemd: Starting Locale Service...
+2019-01-09T15:06:54+03:00 client2 systemd: Started Locale Service.
+2019-01-09T15:10:01+03:00 client2 systemd: Started Session 2 of user root.
+2019-01-09T15:10:01+03:00 client2 systemd: Starting Session 2 of user root.
+2019-01-09T15:16:37+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T15:16:37+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T15:19:55+03:00 client2 systemd: Starting Cleanup of Temporary Directories...
+2019-01-09T15:19:55+03:00 client2 systemd: Started Cleanup of Temporary Directories.
+2019-01-09T15:20:01+03:00 client2 systemd: Started Session 3 of user root.
+2019-01-09T15:20:01+03:00 client2 systemd: Starting Session 3 of user root.
+2019-01-09T15:30:01+03:00 client2 systemd: Started Session 4 of user root.
+2019-01-09T15:30:01+03:00 client2 systemd: Starting Session 4 of user root.
+2019-01-09T15:30:59+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T15:30:59+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T15:40:01+03:00 client2 systemd: Started Session 5 of user root.
+2019-01-09T15:40:01+03:00 client2 systemd: Starting Session 5 of user root.
+2019-01-09T15:45:02+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T15:45:02+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T15:50:01+03:00 client2 systemd: Started Session 6 of user root.
+2019-01-09T15:50:01+03:00 client2 systemd: Starting Session 6 of user root.
+2019-01-09T15:57:56+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T15:57:56+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T16:00:02+03:00 client2 systemd: Started Session 7 of user root.
+2019-01-09T16:00:02+03:00 client2 systemd: Starting Session 7 of user root.
+2019-01-09T16:01:01+03:00 client2 systemd: Started Session 8 of user root.
+2019-01-09T16:01:01+03:00 client2 systemd: Starting Session 8 of user root.
+2019-01-09T16:09:36+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T16:09:36+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T16:10:01+03:00 client2 systemd: Started Session 9 of user root.
+2019-01-09T16:10:01+03:00 client2 systemd: Starting Session 9 of user root.
+2019-01-09T16:20:01+03:00 client2 systemd: Started Session 10 of user root.
+2019-01-09T16:20:01+03:00 client2 systemd: Starting Session 10 of user root.
+2019-01-09T16:23:29+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T16:23:29+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T16:25:17+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T16:25:17+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T16:25:53+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T16:25:53+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T16:26:08+03:00 client2 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-09T16:26:08+03:00 client2 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-09T16:26:08+03:00 client2 systemd: Unit iscsi.service cannot be reloaded because it is inactive.

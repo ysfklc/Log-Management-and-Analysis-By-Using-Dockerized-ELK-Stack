@@ -1,0 +1,6 @@
+2019-01-09T02:00:54+03:00 client2 groupadd[26380]: group added to /etc/group: name=apache, GID=48
+2019-01-09T02:00:54+03:00 client2 groupadd[26380]: group added to /etc/gshadow: name=apache
+2019-01-09T02:00:54+03:00 client2 groupadd[26380]: new group: name=apache, GID=48
+2019-01-09T02:16:43+03:00 client2 groupadd[31146]: group added to /etc/group: name=mysql, GID=27
+2019-01-09T02:16:43+03:00 client2 groupadd[31146]: group added to /etc/gshadow: name=mysql
+2019-01-09T02:16:43+03:00 client2 groupadd[31146]: new group: name=mysql, GID=27

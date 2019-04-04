@@ -1,0 +1,4 @@
+2019-01-09T02:01:01+03:00 client2 run-parts(/etc/cron.hourly)[2644 starting 0anacron
+2019-01-09T02:01:01+03:00 client2 run-parts(/etc/cron.hourly)[2645 finished 0anacron
+2019-01-09T16:01:01+03:00 client2 run-parts(/etc/cron.hourly)[1379 starting 0anacron
+2019-01-09T16:01:01+03:00 client2 run-parts(/etc/cron.hourly)[1380 finished 0anacron

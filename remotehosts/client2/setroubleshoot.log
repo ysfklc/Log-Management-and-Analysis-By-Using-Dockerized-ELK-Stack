@@ -1,0 +1,5 @@
+2019-01-09T02:05:04+03:00 client2 setroubleshoot: Deleting alert 1ab4f303-6c5a-4ca5-b531-5cd98e03f7f0, it is allowed in current policy
+2019-01-09T02:05:05+03:00 client2 setroubleshoot: failed to retrieve rpm info for /var/www/html/wordpress/index.php
+2019-01-09T02:05:05+03:00 client2 setroubleshoot: SELinux is preventing httpd from getattr access on the file /var/www/html/wordpress/index.php. For complete SELinux messages run: sealert -l ef41d3f9-2731-4202-9d91-21a1a40ae6a1
+2019-01-09T02:05:05+03:00 client2 setroubleshoot: failed to retrieve rpm info for /var/www/html/wordpress/index.php
+2019-01-09T02:05:05+03:00 client2 setroubleshoot: SELinux is preventing httpd from getattr access on the file /var/www/html/wordpress/index.php. For complete SELinux messages run: sealert -l ef41d3f9-2731-4202-9d91-21a1a40ae6a1

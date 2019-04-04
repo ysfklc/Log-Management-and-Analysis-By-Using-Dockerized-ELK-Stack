@@ -1,0 +1,3 @@
+2019-01-09T01:55:59+03:00 client2 rsyslogd: action 'action 7' resumed (module 'builtin:omfwd') [v8.24.0 try http://www.rsyslog.com/e/2359 ]
+2019-01-09T01:55:59+03:00 client2 rsyslogd: action 'action 7' resumed (module 'builtin:omfwd') [v8.24.0 try http://www.rsyslog.com/e/2359 ]
+2019-01-09T15:04:49+03:00 client2 rsyslogd: [origin software="rsyslogd" swVersion="8.24.0" x-pid="1382" x-info="http://www.rsyslog.com"] start

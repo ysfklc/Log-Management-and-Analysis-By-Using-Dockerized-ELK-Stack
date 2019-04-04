@@ -1,0 +1,12 @@
+2019-01-09T02:41:59+03:00 client2 mtp-probe: checking bus 1, device 7: "/sys/devices/pci0000:00/0000:00:1d.7/usb1/1-1"
+2019-01-09T02:41:59+03:00 client2 mtp-probe: bus: 1, device: 7 was not an MTP device
+2019-01-09T02:42:00+03:00 client2 mtp-probe: checking bus 4, device 6: "/sys/devices/pci0000:00/0000:00:1d.6/usb4/4-1"
+2019-01-09T02:42:00+03:00 client2 mtp-probe: bus: 4, device: 6 was not an MTP device
+2019-01-09T15:01:45+03:00 client2 mtp-probe: checking bus 1, device 8: "/sys/devices/pci0000:00/0000:00:1d.7/usb1/1-2"
+2019-01-09T15:01:45+03:00 client2 mtp-probe: bus: 1, device: 8 was not an MTP device
+2019-01-09T15:04:43+03:00 client2 mtp-probe: checking bus 4, device 2: "/sys/devices/pci0000:00/0000:00:1d.6/usb4/4-1"
+2019-01-09T15:04:43+03:00 client2 mtp-probe: bus: 4, device: 2 was not an MTP device
+2019-01-09T15:04:50+03:00 client2 mtp-probe: checking bus 1, device 2: "/sys/devices/pci0000:00/0000:00:1d.7/usb1/1-1"
+2019-01-09T15:04:50+03:00 client2 mtp-probe: bus: 1, device: 2 was not an MTP device
+2019-01-09T15:04:52+03:00 client2 mtp-probe: checking bus 1, device 3: "/sys/devices/pci0000:00/0000:00:1d.7/usb1/1-2"
+2019-01-09T15:04:52+03:00 client2 mtp-probe: bus: 1, device: 3 was not an MTP device

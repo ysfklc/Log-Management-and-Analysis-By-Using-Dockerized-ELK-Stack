@@ -1,0 +1,2 @@
+2019-01-09T15:04:46+03:00 client2 auditd[668]: Started dispatcher: /sbin/audispd pid: 670
+2019-01-09T15:04:46+03:00 client2 auditd[668]: Init complete, auditd 2.8.1 listening for events (startup state enable)
