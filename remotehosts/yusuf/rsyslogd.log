@@ -1,0 +1,3 @@
+2019-01-16T13:54:46+03:00 yusuf rsyslogd: [origin software="rsyslogd" swVersion="8.24.0" x-pid="1368" x-info="http://www.rsyslog.com"] exiting on signal 15.
+2019-01-16T13:54:46+03:00 yusuf rsyslogd: [origin software="rsyslogd" swVersion="8.24.0" x-pid="20145" x-info="http://www.rsyslog.com"] start
+2019-01-16T14:50:01+03:00 yusuf rsyslogd: [origin software="rsyslogd" swVersion="8.24.0" x-pid="20145" x-info="http://www.rsyslog.com"] rsyslogd was HUPed

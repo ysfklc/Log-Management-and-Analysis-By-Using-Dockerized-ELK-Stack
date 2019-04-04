@@ -1,0 +1,14 @@
+2019-01-16T15:16:24+03:00 yusuf dnsmasq[1781]: no servers found in /etc/resolv.conf, will retry
+2019-01-16T15:16:38+03:00 yusuf dnsmasq[1781]: reading /etc/resolv.conf
+2019-01-16T15:16:38+03:00 yusuf dnsmasq[1781]: using nameserver 10.211.55.1#53
+2019-01-16T15:16:44+03:00 yusuf dnsmasq[1781]: reading /etc/resolv.conf
+2019-01-16T15:16:44+03:00 yusuf dnsmasq[1781]: using nameserver 10.211.55.1#53
+2019-01-16T15:16:44+03:00 yusuf dnsmasq[1781]: using nameserver fe80::21c:42ff:fe00:18%eth0#53
+2019-01-16T20:57:23+03:00 yusuf dnsmasq[1781]: reading /etc/resolv.conf
+2019-01-16T20:57:23+03:00 yusuf dnsmasq[1781]: using nameserver fe80::21c:42ff:fe00:18%eth0#53
+2019-01-16T20:57:23+03:00 yusuf dnsmasq[1781]: no servers found in /etc/resolv.conf, will retry
+2019-01-16T20:57:36+03:00 yusuf dnsmasq[1781]: reading /etc/resolv.conf
+2019-01-16T20:57:36+03:00 yusuf dnsmasq[1781]: using nameserver 10.211.55.1#53
+2019-01-16T20:57:43+03:00 yusuf dnsmasq[1781]: reading /etc/resolv.conf
+2019-01-16T20:57:43+03:00 yusuf dnsmasq[1781]: using nameserver 10.211.55.1#53
+2019-01-16T20:57:43+03:00 yusuf dnsmasq[1781]: using nameserver fe80::21c:42ff:fe00:18%eth0#53

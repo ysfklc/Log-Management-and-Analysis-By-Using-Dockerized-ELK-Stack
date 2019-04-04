@@ -1,0 +1,26 @@
+2019-01-16T15:16:24+03:00 yusuf avahi-daemon[701]: Withdrawing address record for 10.211.55.20 on eth0.
+2019-01-16T15:16:24+03:00 yusuf avahi-daemon[701]: Leaving mDNS multicast group on interface eth0.IPv4 with address 10.211.55.20.
+2019-01-16T15:16:24+03:00 yusuf avahi-daemon[701]: Interface eth0.IPv4 no longer relevant for mDNS.
+2019-01-16T15:16:24+03:00 yusuf avahi-daemon[701]: Withdrawing address record for fdb2:2c26:f4e4:0:294b:e857:5bbc:24b on eth0.
+2019-01-16T15:16:38+03:00 yusuf avahi-daemon[701]: Registering new address record for fe80::d41a:a6de:73c6:70fd on eth0.*.
+2019-01-16T15:16:38+03:00 yusuf avahi-daemon[701]: Joining mDNS multicast group on interface eth0.IPv4 with address 10.211.55.20.
+2019-01-16T15:16:38+03:00 yusuf avahi-daemon[701]: New relevant interface eth0.IPv4 for mDNS.
+2019-01-16T15:16:38+03:00 yusuf avahi-daemon[701]: Registering new address record for 10.211.55.20 on eth0.IPv4.
+2019-01-16T15:16:39+03:00 yusuf avahi-daemon[701]: Registering new address record for fe80::feb7:82bd:f4e3:6f67 on eth0.*.
+2019-01-16T18:17:52+03:00 yusuf avahi-daemon[701]: Registering new address record for fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0 on eth0.*.
+2019-01-16T18:17:52+03:00 yusuf avahi-daemon[701]: Withdrawing address record for fe80::feb7:82bd:f4e3:6f67 on eth0.
+2019-01-16T18:17:52+03:00 yusuf avahi-daemon[701]: Withdrawing address record for fe80::d41a:a6de:73c6:70fd on eth0.
+2019-01-16T20:57:23+03:00 yusuf avahi-daemon[701]: Withdrawing address record for 10.211.55.20 on eth0.
+2019-01-16T20:57:23+03:00 yusuf avahi-daemon[701]: Leaving mDNS multicast group on interface eth0.IPv4 with address 10.211.55.20.
+2019-01-16T20:57:23+03:00 yusuf avahi-daemon[701]: Interface eth0.IPv4 no longer relevant for mDNS.
+2019-01-16T20:57:23+03:00 yusuf avahi-daemon[701]: Withdrawing address record for fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0 on eth0.
+2019-01-16T20:57:23+03:00 yusuf avahi-daemon[701]: Registering new address record for fe80::d41a:a6de:73c6:70fd on eth0.*.
+2019-01-16T20:57:23+03:00 yusuf avahi-daemon[701]: Withdrawing address record for fe80::d41a:a6de:73c6:70fd on eth0.
+2019-01-16T20:57:36+03:00 yusuf avahi-daemon[701]: Joining mDNS multicast group on interface eth0.IPv4 with address 10.211.55.20.
+2019-01-16T20:57:36+03:00 yusuf avahi-daemon[701]: New relevant interface eth0.IPv4 for mDNS.
+2019-01-16T20:57:36+03:00 yusuf avahi-daemon[701]: Registering new address record for 10.211.55.20 on eth0.IPv4.
+2019-01-16T20:57:36+03:00 yusuf avahi-daemon[701]: Registering new address record for fe80::d41a:a6de:73c6:70fd on eth0.*.
+2019-01-16T20:57:38+03:00 yusuf avahi-daemon[701]: Registering new address record for fe80::feb7:82bd:f4e3:6f67 on eth0.*.
+2019-01-16T20:57:44+03:00 yusuf avahi-daemon[701]: Registering new address record for fdb2:2c26:f4e4:0:d5a2:332c:f355:9ca0 on eth0.*.
+2019-01-16T20:57:44+03:00 yusuf avahi-daemon[701]: Withdrawing address record for fe80::feb7:82bd:f4e3:6f67 on eth0.
+2019-01-16T20:57:44+03:00 yusuf avahi-daemon[701]: Withdrawing address record for fe80::d41a:a6de:73c6:70fd on eth0.

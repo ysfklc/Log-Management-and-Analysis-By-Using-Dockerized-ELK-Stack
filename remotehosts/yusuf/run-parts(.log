@@ -1,0 +1,16 @@
+2019-01-16T14:01:01+03:00 yusuf run-parts(/etc/cron.hourly)[2249 starting 0anacron
+2019-01-16T14:01:01+03:00 yusuf run-parts(/etc/cron.hourly)[2250 finished 0anacron
+2019-01-16T14:50:01+03:00 yusuf run-parts(/etc/cron.daily)[31750 starting logrotate
+2019-01-16T14:50:01+03:00 yusuf run-parts(/etc/cron.daily)[31762 finished logrotate
+2019-01-16T14:50:01+03:00 yusuf run-parts(/etc/cron.daily)[31750 starting man-db.cron
+2019-01-16T14:50:01+03:00 yusuf run-parts(/etc/cron.daily)[31783 finished man-db.cron
+2019-01-16T14:50:01+03:00 yusuf run-parts(/etc/cron.daily)[31750 starting mlocate
+2019-01-16T14:50:02+03:00 yusuf run-parts(/etc/cron.daily)[31797 finished mlocate
+2019-01-16T15:01:01+03:00 yusuf run-parts(/etc/cron.hourly)[1541 starting 0anacron
+2019-01-16T15:01:01+03:00 yusuf run-parts(/etc/cron.hourly)[1550 finished 0anacron
+2019-01-16T19:01:01+03:00 yusuf run-parts(/etc/cron.hourly)[1322 starting 0anacron
+2019-01-16T19:01:01+03:00 yusuf run-parts(/etc/cron.hourly)[1323 finished 0anacron
+2019-01-16T20:01:01+03:00 yusuf run-parts(/etc/cron.hourly)[2461 starting 0anacron
+2019-01-16T20:01:01+03:00 yusuf run-parts(/etc/cron.hourly)[2462 finished 0anacron
+2019-01-16T22:01:02+03:00 yusuf run-parts(/etc/cron.hourly)[1442 starting 0anacron
+2019-01-16T22:01:02+03:00 yusuf run-parts(/etc/cron.hourly)[1443 finished 0anacron

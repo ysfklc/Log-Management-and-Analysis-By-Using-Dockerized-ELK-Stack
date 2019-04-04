@@ -1,0 +1,9 @@
+2019-01-16T14:01:01+03:00 yusuf anacron[22506]: Anacron started on 2019-01-16
+2019-01-16T14:01:01+03:00 yusuf anacron[22506]: Will run job `cron.daily' in 49 min.
+2019-01-16T14:01:01+03:00 yusuf anacron[22506]: Will run job `cron.weekly' in 69 min.
+2019-01-16T14:01:01+03:00 yusuf anacron[22506]: Jobs will be executed sequentially
+2019-01-16T14:50:01+03:00 yusuf anacron[22506]: Job `cron.daily' started
+2019-01-16T14:50:02+03:00 yusuf anacron[22506]: Job `cron.daily' terminated
+2019-01-16T15:10:01+03:00 yusuf anacron[22506]: Job `cron.weekly' started
+2019-01-16T15:10:01+03:00 yusuf anacron[22506]: Job `cron.weekly' terminated
+2019-01-16T15:10:01+03:00 yusuf anacron[22506]: Normal exit (2 jobs run)

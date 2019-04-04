@@ -1,0 +1,98 @@
+2019-01-16T14:07:20+03:00 yusuf dhclient[19597]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x37cdb8ea)
+2019-01-16T14:07:20+03:00 yusuf dhclient[19597]: DHCPACK from 10.211.55.1 (xid=0x37cdb8ea)
+2019-01-16T14:07:20+03:00 yusuf dhclient[19597]: bound to 10.211.55.20 -- renewal in 898 seconds.
+2019-01-16T14:22:18+03:00 yusuf dhclient[19597]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x37cdb8ea)
+2019-01-16T14:22:18+03:00 yusuf dhclient[19597]: DHCPACK from 10.211.55.1 (xid=0x37cdb8ea)
+2019-01-16T14:22:18+03:00 yusuf dhclient[19597]: bound to 10.211.55.20 -- renewal in 829 seconds.
+2019-01-16T14:36:07+03:00 yusuf dhclient[19597]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x37cdb8ea)
+2019-01-16T14:36:07+03:00 yusuf dhclient[19597]: DHCPACK from 10.211.55.1 (xid=0x37cdb8ea)
+2019-01-16T14:36:08+03:00 yusuf dhclient[19597]: bound to 10.211.55.20 -- renewal in 843 seconds.
+2019-01-16T14:50:11+03:00 yusuf dhclient[19597]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x37cdb8ea)
+2019-01-16T14:50:11+03:00 yusuf dhclient[19597]: DHCPACK from 10.211.55.1 (xid=0x37cdb8ea)
+2019-01-16T14:50:11+03:00 yusuf dhclient[19597]: bound to 10.211.55.20 -- renewal in 783 seconds.
+2019-01-16T15:03:14+03:00 yusuf dhclient[19597]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x37cdb8ea)
+2019-01-16T15:03:15+03:00 yusuf dhclient[19597]: DHCPACK from 10.211.55.1 (xid=0x37cdb8ea)
+2019-01-16T15:03:15+03:00 yusuf dhclient[19597]: bound to 10.211.55.20 -- renewal in 848 seconds.
+2019-01-16T15:15:54+03:00 yusuf dhclient[4681]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x6028c251)
+2019-01-16T15:15:54+03:00 yusuf dhclient[4681]: DHCPACK from 10.211.55.1 (xid=0x6028c251)
+2019-01-16T15:15:54+03:00 yusuf dhclient[4681]: bound to 10.211.55.20 -- renewal in 752 seconds.
+2019-01-16T15:15:55+03:00 yusuf dhclient[4682]: XMT: Solicit on eth0, interval 1020ms.
+2019-01-16T15:15:56+03:00 yusuf dhclient[4682]: XMT: Solicit on eth0, interval 2010ms.
+2019-01-16T15:15:58+03:00 yusuf dhclient[4682]: XMT: Solicit on eth0, interval 4220ms.
+2019-01-16T15:16:02+03:00 yusuf dhclient[4682]: XMT: Solicit on eth0, interval 8290ms.
+2019-01-16T15:16:04+03:00 yusuf dhclient[4752]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x26a31e81)
+2019-01-16T15:16:04+03:00 yusuf dhclient[4752]: DHCPACK from 10.211.55.1 (xid=0x26a31e81)
+2019-01-16T15:16:04+03:00 yusuf dhclient[4752]: bound to 10.211.55.20 -- renewal in 744 seconds.
+2019-01-16T15:16:04+03:00 yusuf dhclient[4753]: XMT: Solicit on eth0, interval 1050ms.
+2019-01-16T15:16:05+03:00 yusuf dhclient[4753]: XMT: Solicit on eth0, interval 2200ms.
+2019-01-16T15:16:07+03:00 yusuf dhclient[4753]: XMT: Solicit on eth0, interval 4310ms.
+2019-01-16T15:16:12+03:00 yusuf dhclient[4753]: XMT: Solicit on eth0, interval 8920ms.
+2019-01-16T15:16:21+03:00 yusuf dhclient[4753]: XMT: Solicit on eth0, interval 18290ms.
+2019-01-16T15:16:38+03:00 yusuf dhclient[4923]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x3a1923e2)
+2019-01-16T15:16:38+03:00 yusuf dhclient[4923]: DHCPACK from 10.211.55.1 (xid=0x3a1923e2)
+2019-01-16T15:16:38+03:00 yusuf dhclient[4923]: bound to 10.211.55.20 -- renewal in 794 seconds.
+2019-01-16T15:16:45+03:00 yusuf dhclient[4992]: XMT: Info-Request on eth0, interval 970ms.
+2019-01-16T15:16:45+03:00 yusuf dhclient[4992]: RCV: Reply message on eth0 from fe80::21c:42ff:fe00:18.
+2019-01-16T18:33:00+03:00 yusuf dhclient[7873]: DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x243376cf)
+2019-01-16T18:33:00+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x243376cf)
+2019-01-16T18:33:00+03:00 yusuf dhclient[7873]: DHCPOFFER from 10.211.55.1
+2019-01-16T18:33:00+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T18:33:00+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 730 seconds.
+2019-01-16T18:45:10+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x243376cf)
+2019-01-16T18:45:10+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T18:45:10+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 688 seconds.
+2019-01-16T18:56:38+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x243376cf)
+2019-01-16T18:56:38+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T18:56:38+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 837 seconds.
+2019-01-16T19:10:35+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x243376cf)
+2019-01-16T19:10:35+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T19:10:36+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 800 seconds.
+2019-01-16T19:23:55+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x243376cf)
+2019-01-16T19:23:55+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T19:23:55+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 704 seconds.
+2019-01-16T19:35:39+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x243376cf)
+2019-01-16T19:35:39+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T19:35:39+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 806 seconds.
+2019-01-16T19:49:05+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x243376cf)
+2019-01-16T19:49:05+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T19:49:05+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 787 seconds.
+2019-01-16T20:02:12+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x243376cf)
+2019-01-16T20:02:12+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T20:02:12+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 777 seconds.
+2019-01-16T20:15:09+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x243376cf)
+2019-01-16T20:15:09+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T20:15:09+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 895 seconds.
+2019-01-16T20:30:04+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x243376cf)
+2019-01-16T20:30:04+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T20:30:04+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 748 seconds.
+2019-01-16T20:42:32+03:00 yusuf dhclient[7873]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x243376cf)
+2019-01-16T20:42:32+03:00 yusuf dhclient[7873]: DHCPACK from 10.211.55.1 (xid=0x243376cf)
+2019-01-16T20:42:32+03:00 yusuf dhclient[7873]: bound to 10.211.55.20 -- renewal in 894 seconds.
+2019-01-16T20:57:02+03:00 yusuf dhclient[2979]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x226a8aad)
+2019-01-16T20:57:02+03:00 yusuf dhclient[2979]: DHCPACK from 10.211.55.1 (xid=0x226a8aad)
+2019-01-16T20:57:02+03:00 yusuf dhclient[2979]: bound to 10.211.55.20 -- renewal in 755 seconds.
+2019-01-16T20:57:03+03:00 yusuf dhclient[2982]: XMT: Solicit on eth0, interval 1060ms.
+2019-01-16T20:57:04+03:00 yusuf dhclient[2982]: XMT: Solicit on eth0, interval 2140ms.
+2019-01-16T20:57:06+03:00 yusuf dhclient[2982]: XMT: Solicit on eth0, interval 4280ms.
+2019-01-16T20:57:10+03:00 yusuf dhclient[2982]: XMT: Solicit on eth0, interval 8980ms.
+2019-01-16T20:57:19+03:00 yusuf dhclient[2982]: XMT: Solicit on eth0, interval 18210ms.
+2019-01-16T20:57:36+03:00 yusuf dhclient[3343]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x3e9aae0)
+2019-01-16T20:57:36+03:00 yusuf dhclient[3343]: DHCPACK from 10.211.55.1 (xid=0x3e9aae0)
+2019-01-16T20:57:36+03:00 yusuf dhclient[3343]: bound to 10.211.55.20 -- renewal in 812 seconds.
+2019-01-16T20:57:43+03:00 yusuf dhclient[3440]: XMT: Info-Request on eth0, interval 980ms.
+2019-01-16T20:57:43+03:00 yusuf dhclient[3440]: RCV: Reply message on eth0 from fe80::21c:42ff:fe00:18.
+2019-01-16T21:16:23+03:00 yusuf dhclient[3343]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x3e9aae0)
+2019-01-16T21:16:23+03:00 yusuf dhclient[3343]: DHCPACK from 10.211.55.1 (xid=0x3e9aae0)
+2019-01-16T21:16:23+03:00 yusuf dhclient[3343]: bound to 10.211.55.20 -- renewal in 765 seconds.
+2019-01-16T21:29:08+03:00 yusuf dhclient[3343]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x3e9aae0)
+2019-01-16T21:29:08+03:00 yusuf dhclient[3343]: DHCPACK from 10.211.55.1 (xid=0x3e9aae0)
+2019-01-16T21:29:08+03:00 yusuf dhclient[3343]: bound to 10.211.55.20 -- renewal in 877 seconds.
+2019-01-16T21:43:45+03:00 yusuf dhclient[3343]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x3e9aae0)
+2019-01-16T21:43:45+03:00 yusuf dhclient[3343]: DHCPACK from 10.211.55.1 (xid=0x3e9aae0)
+2019-01-16T21:43:45+03:00 yusuf dhclient[3343]: bound to 10.211.55.20 -- renewal in 866 seconds.
+2019-01-16T21:58:11+03:00 yusuf dhclient[3343]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x3e9aae0)
+2019-01-16T21:58:11+03:00 yusuf dhclient[3343]: DHCPACK from 10.211.55.1 (xid=0x3e9aae0)
+2019-01-16T21:58:11+03:00 yusuf dhclient[3343]: bound to 10.211.55.20 -- renewal in 856 seconds.
+2019-01-16T22:12:27+03:00 yusuf dhclient[3343]: DHCPREQUEST on eth0 to 10.211.55.1 port 67 (xid=0x3e9aae0)
+2019-01-16T22:12:27+03:00 yusuf dhclient[3343]: DHCPACK from 10.211.55.1 (xid=0x3e9aae0)
+2019-01-16T22:12:27+03:00 yusuf dhclient[3343]: bound to 10.211.55.20 -- renewal in 882 seconds.
