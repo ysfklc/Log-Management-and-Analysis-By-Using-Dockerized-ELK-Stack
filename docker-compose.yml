@@ -1,0 +1,70 @@
+version: '3'
+
+services:
+    elasticsearch:
+      image: docker.elastic.co/elasticsearch/elasticsearch:6.6.1
+      container_name: elasticsearch
+      environment:
+        - "ES_JAVA_OPTS=-Xms512m -Xmx512m" 
+      ports:
+        - "9200:9200"
+        - "9300:9300"
+      restart: unless-stopped
+      networks:
+        app_net: 
+          ipv4_address: 172.61.0.2
+      
+
+    logstash: 
+      image: docker.elastic.co/logstash/logstash:6.6.1
+      container_name: logstash
+      command: -f /etc/logstash/conf.d/
+      volumes:
+        -  ./logstash/config/:/usr/share/logstash/config/:z
+        -  ./logstash/conf.d/:/etc/logstash/conf.d/:z
+      ports:
+        - "5000:5000"
+        - "5044:5044"
+      environment:
+        LS_JAVA_OPTS: "-Xms512m -Xmx512m"
+      links:
+        - elasticsearch
+      restart: unless-stopped
+      networks:
+        app_net: 
+          ipv4_address: 172.61.0.3
+
+    filebeat:
+      image: docker.elastic.co/beats/filebeat:6.6.1
+      container_name: filebeat
+      volumes:
+        - ./remotehosts/:/var/app/log/:z
+        - ./filebeat/config/filebeat.yml:/usr/share/filebeat/filebeat.yml:z
+      depends_on:
+        - logstash
+      links:
+        - logstash
+      restart: unless-stopped
+      networks:
+        app_net: 
+          ipv4_address: 172.61.0.4
+
+    kibana:
+      image: docker.elastic.co/kibana/kibana:6.6.1
+      container_name: kibana
+      ports:
+        - "5601:5601"
+      links:
+        - elasticsearch
+      depends_on:
+        - elasticsearch
+      restart: unless-stopped
+      networks:
+        app_net: 
+          ipv4_address: 172.61.0.5
+
+networks:
+  app_net:         
+    ipam:
+      config: 
+        - subnet: 172.61.0.0/24
