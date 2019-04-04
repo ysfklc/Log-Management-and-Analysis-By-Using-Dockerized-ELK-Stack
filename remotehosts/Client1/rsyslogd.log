@@ -1,0 +1,5 @@
+2019-01-07T10:40:01+03:00 Client1 rsyslogd: action 'action 7' resumed (module 'builtin:omfwd') [v8.24.0 try http://www.rsyslog.com/e/2359 ]
+2019-01-07T10:40:01+03:00 Client1 rsyslogd: action 'action 7' resumed (module 'builtin:omfwd') [v8.24.0 try http://www.rsyslog.com/e/2359 ]
+2019-01-07T10:40:07+03:00 Client1 rsyslogd: [origin software="rsyslogd" swVersion="8.24.0" x-pid="3435" x-info="http://www.rsyslog.com"] exiting on signal 15.
+2019-01-07T10:40:07+03:00 Client1 rsyslogd: [origin software="rsyslogd" swVersion="8.24.0" x-pid="4728" x-info="http://www.rsyslog.com"] start
+2019-01-07T13:24:19+03:00 Client1 rsyslogd: [origin software="rsyslogd" swVersion="8.24.0" x-pid="4728" x-info="http://www.rsyslog.com"] rsyslogd was HUPed

@@ -1,0 +1,100 @@
+2019-01-07T10:40:04+03:00 Client1 journal: Some code accessed the property 'AuthList' on the module 'authList'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+2019-01-07T10:40:04+03:00 Client1 journal: D-Bus service launched with name: net.reactivated.Fprint
+2019-01-07T10:40:04+03:00 Client1 journal: entering main loop
+2019-01-07T10:40:05+03:00 Client1 journal: Coherence: Class [object Class for WindowList] injected.
+2019-01-07T10:40:27+03:00 Client1 journal: Coherence: Uninjected [object Class for WindowList] class.
+2019-01-07T10:40:34+03:00 Client1 journal: No devices in use, exit
+2019-01-07T10:40:36+03:00 Client1 journal: D-Bus service launched with name: net.reactivated.Fprint
+2019-01-07T10:40:36+03:00 Client1 journal: entering main loop
+2019-01-07T10:41:06+03:00 Client1 journal: No devices in use, exit
+2019-01-07T10:41:11+03:00 Client1 journal: D-Bus service launched with name: net.reactivated.Fprint
+2019-01-07T10:41:11+03:00 Client1 journal: entering main loop
+2019-01-07T10:41:11+03:00 Client1 journal: Coherence: Class [object Class for WindowList] injected.
+2019-01-07T10:41:41+03:00 Client1 journal: No devices in use, exit
+2019-01-07T10:42:20+03:00 Client1 journal: Allocating size to GtkScrollbar 0x17a21e0 without calling gtk_widget_get_preferred_width/height(). How does the code know the size to allocate?
+2019-01-07T10:47:46+03:00 Client1 journal: Coherence: Uninjected [object Class for WindowList] class.
+2019-01-07T10:48:59+03:00 Client1 journal: D-Bus service launched with name: net.reactivated.Fprint
+2019-01-07T10:48:59+03:00 Client1 journal: entering main loop
+2019-01-07T10:49:01+03:00 Client1 journal: Coherence: Class [object Class for WindowList] injected.
+2019-01-07T10:49:29+03:00 Client1 journal: No devices in use, exit
+2019-01-07T10:55:51+03:00 Client1 journal: Coherence: Uninjected [object Class for WindowList] class.
+2019-01-07T11:00:26+03:00 Client1 journal: D-Bus service launched with name: net.reactivated.Fprint
+2019-01-07T11:00:26+03:00 Client1 journal: entering main loop
+2019-01-07T11:00:28+03:00 Client1 journal: Coherence: Class [object Class for WindowList] injected.
+2019-01-07T11:12:38+03:00 Client1 journal: No devices in use, exit
+2019-01-07T11:15:17+03:00 Client1 journal: Allocating size to GtkScrollbar 0x1282200 without calling gtk_widget_get_preferred_width/height(). How does the code know the size to allocate?
+2019-01-07T11:17:05+03:00 Client1 journal: Coherence: Uninjected [object Class for WindowList] class.
+2019-01-07T11:17:06+03:00 Client1 journal: D-Bus service launched with name: net.reactivated.Fprint
+2019-01-07T11:17:06+03:00 Client1 journal: entering main loop
+2019-01-07T11:17:37+03:00 Client1 journal: No devices in use, exit
+2019-01-07T11:17:39+03:00 Client1 journal: D-Bus service launched with name: net.reactivated.Fprint
+2019-01-07T11:17:39+03:00 Client1 journal: entering main loop
+2019-01-07T11:17:39+03:00 Client1 journal: Coherence: Class [object Class for WindowList] injected.
+2019-01-07T11:17:47+03:00 Client1 journal: Coherence: Uninjected [object Class for WindowList] class.
+2019-01-07T11:17:50+03:00 Client1 journal: g_array_unref: assertion 'array' failed
+2019-01-07T11:17:50+03:00 Client1 journal: g_array_unref: assertion 'array' failed
+2019-01-07T11:17:51+03:00 Client1 journal: JS WARNING: [resource:///org/gnome/shell/ui/main.js 315]: reference to undefined property "MetaStage"
+2019-01-07T11:17:51+03:00 Client1 journal: JS WARNING: [resource:///org/gnome/shell/ui/layout.js 221]: reference to undefined property "MetaWindowGroup"
+2019-01-07T11:17:51+03:00 Client1 journal: JS WARNING: [resource:///org/gnome/shell/ui/osdMonitorLabeler.js 59]: reference to undefined property "MetaDBusDisplayConfigSkeleton"
+2019-01-07T11:17:52+03:00 Client1 journal: JS WARNING: [resource:///org/gnome/shell/ui/slider.js 38]: reference to undefined property "CallyActor"
+2019-01-07T11:17:52+03:00 Client1 journal: Failed to load background 'file:///usr/share/backgrounds/gnome/adwaita-lock.jpg': Error opening file /usr/share/backgrounds/gnome/adwaita-lock.jpg: No such file or directory
+2019-01-07T11:17:53+03:00 Client1 journal: Some code accessed the property 'AuthList' on the module 'authList'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+2019-01-07T11:17:53+03:00 Client1 journal: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+2019-01-07T11:17:53+03:00 Client1 journal: failed to get edid: unable to get EDID for output
+2019-01-07T11:17:53+03:00 Client1 journal: JS WARNING: [resource:///org/gnome/shell/ui/layout.js 29]: reference to undefined property "MetaWindowX11"
+2019-01-07T11:17:54+03:00 Client1 journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+2019-01-07T11:17:54+03:00 Client1 journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+2019-01-07T11:17:54+03:00 Client1 journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+2019-01-07T11:18:01+03:00 Client1 journal: Failed to send session response The connection is closed
+2019-01-07T11:18:01+03:00 Client1 journal: Cannot open display: 
+2019-01-07T11:18:02+03:00 Client1 journal: JS WARNING: [resource:///org/gnome/shell/ui/main.js 315]: reference to undefined property "MetaStage"
+2019-01-07T11:18:02+03:00 Client1 journal: JS WARNING: [resource:///org/gnome/shell/ui/layout.js 221]: reference to undefined property "MetaWindowGroup"
+2019-01-07T11:18:02+03:00 Client1 journal: JS WARNING: [resource:///org/gnome/shell/ui/osdMonitorLabeler.js 59]: reference to undefined property "MetaDBusDisplayConfigSkeleton"
+2019-01-07T11:18:03+03:00 Client1 journal: JS WARNING: [resource:///org/gnome/shell/ui/slider.js 38]: reference to undefined property "CallyActor"
+2019-01-07T11:18:03+03:00 Client1 journal: goa-daemon version 3.26.2 starting
+2019-01-07T11:18:03+03:00 Client1 journal: GoaKerberosIdentityManager: Using polling for change notification for credential cache type 'KEYRING'
+2019-01-07T11:18:04+03:00 Client1 journal: Coherence: Tracker created.
+2019-01-07T11:18:04+03:00 Client1 journal: Coherence: Registering interface "com.parallels.gnome.CoherenceSetup"...
+2019-01-07T11:18:04+03:00 Client1 journal: Coherence:  registered "com.parallels.gnome.CoherenceSetup".
+2019-01-07T11:18:04+03:00 Client1 journal: Coherence: Tracker enabled.
+2019-01-07T11:18:04+03:00 Client1 journal: Some code accessed the property 'WindowList' on the module 'extension'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.
+2019-01-07T11:18:04+03:00 Client1 journal: Coherence: Class [object Class for WindowList] injected.
+2019-01-07T11:18:04+03:00 Client1 journal: Coherence: Uninjected [object Class for WindowList] class.
+2019-01-07T11:18:04+03:00 Client1 journal: Coherence: Class [object Class for WindowList] injected.
+2019-01-07T11:18:04+03:00 Client1 journal: Error setting up rfkill: Could not open RFKILL control device, please verify your installation
+2019-01-07T11:18:04+03:00 Client1 journal: Loading NVML: libnvidia-ml.so: cannot open shared object file: No such file or directory
+2019-01-07T11:18:04+03:00 Client1 journal: Failed to get current display configuration state: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.gnome.Mutter.DisplayConfig" does not exist
+2019-01-07T11:18:04+03:00 Client1 journal: JS WARNING: [resource:///org/gnome/shell/ui/workspaceThumbnail.js 892]: reference to undefined property "_switchWorkspaceNotifyId"
+2019-01-07T11:18:05+03:00 Client1 journal: Failed to load background 'file:///usr/share/backgrounds/gnome/adwaita-lock.jpg': Error opening file /usr/share/backgrounds/gnome/adwaita-lock.jpg: No such file or directory
+2019-01-07T11:18:06+03:00 Client1 journal: failed to get edid: unable to get EDID for output
+2019-01-07T11:18:06+03:00 Client1 journal: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+2019-01-07T11:18:07+03:00 Client1 journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+2019-01-07T11:18:07+03:00 Client1 journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+2019-01-07T11:18:07+03:00 Client1 journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+2019-01-07T11:18:08+03:00 Client1 journal: Exiting
+2019-01-07T11:18:08+03:00 Client1 journal: Coherence: Uninjected [object Class for WindowList] class.
+2019-01-07T11:18:09+03:00 Client1 journal: Coherence: Class [object Class for WindowList] injected.
+2019-01-07T11:18:09+03:00 Client1 journal: Coherence: Tracker created.
+2019-01-07T11:18:09+03:00 Client1 journal: Coherence: Registering interface "com.parallels.gnome.CoherenceSetup"...
+2019-01-07T11:18:09+03:00 Client1 journal: Extension "coherence-gnome-shell@parallels.com" had error: Gio.IOErrorEnum: An object is already exported for the interface com.parallels.gnome.CoherenceSetup at /com/parallels/gnome
+2019-01-07T11:18:09+03:00 Client1 journal: No devices in use, exit
+2019-01-07T11:18:09+03:00 Client1 journal: Coherence: Attaching interface "com.parallels.prlcc.Coherence"...
+2019-01-07T11:18:09+03:00 Client1 journal: Coherence: Setup {name=":1.102", path="/com/parallels/prlcc"}.
+2019-01-07T11:18:09+03:00 Client1 journal: Coherence:  attached com.parallels.prlcc.Coherence.
+2019-01-07T11:18:09+03:00 Client1 journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+2019-01-07T11:18:09+03:00 Client1 journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+2019-01-07T11:18:09+03:00 Client1 journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+2019-01-07T11:18:09+03:00 Client1 journal: STACK_OP_ADD: window 0x3200001 already in stack
+2019-01-07T11:18:09+03:00 Client1 journal: STACK_OP_ADD: window 0x3200001 already in stack
+2019-01-07T11:18:09+03:00 Client1 journal: unable to get EDID for xrandr-Virtual1: unable to get EDID for output
+2019-01-07T11:18:15+03:00 Client1 journal: D-Bus service launched with name: net.reactivated.Fprint
+2019-01-07T11:18:15+03:00 Client1 journal: entering main loop
+2019-01-07T11:18:46+03:00 Client1 journal: No devices in use, exit
+2019-01-07T11:18:47+03:00 Client1 journal: D-Bus service launched with name: net.reactivated.Fprint
+2019-01-07T11:18:47+03:00 Client1 journal: entering main loop
+2019-01-07T11:19:18+03:00 Client1 journal: No devices in use, exit
+2019-01-07T11:19:45+03:00 Client1 journal: D-Bus service launched with name: net.reactivated.Fprint
+2019-01-07T11:19:45+03:00 Client1 journal: entering main loop
+2019-01-07T11:20:16+03:00 Client1 journal: No devices in use, exit
+2019-01-07T11:40:27+03:00 Client1 journal: secret_service_search_sync: must specify at least one attribute to match
+2019-01-07T11:43:13+03:00 Client1 journal: Coherence: Uninjected [object Class for WindowList] class.

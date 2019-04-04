@@ -1,0 +1,147 @@
+2019-01-07T10:43:29+03:00 Client1 NetworkManager[1070]: <info>  [1546847009.8523] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T10:43:29+03:00 Client1 NetworkManager[1070]: <info>  [1546847009.8526] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T10:43:29+03:00 Client1 NetworkManager[1070]: <info>  [1546847009.8526] dhcp4 (eth0):   lease time 1800
+2019-01-07T10:43:29+03:00 Client1 NetworkManager[1070]: <info>  [1546847009.8526] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T10:43:29+03:00 Client1 NetworkManager[1070]: <info>  [1546847009.8526] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T10:43:29+03:00 Client1 NetworkManager[1070]: <info>  [1546847009.8526] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T10:43:29+03:00 Client1 NetworkManager[1070]: <info>  [1546847009.8526] dhcp4 (eth0): state changed bound -> bound
+2019-01-07T10:43:50+03:00 Client1 NetworkManager[1070]: <info>  [1546847030.2467] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2592000sec pref 604800sec lifetime 922-922[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T10:52:54+03:00 Client1 NetworkManager[1070]: <info>  [1546847574.5173] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2592000sec pref 604800sec lifetime 1466-1466[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.8370] device (eth0): carrier: link connected
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.8406] device (eth0): DHCPv4 lease renewal requested
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.8524] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 1205
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.8527] dhcp4 (eth0): state changed bound -> done
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.8535] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.8652] dhcp4 (eth0): dhclient started with pid 8185
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.9235] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.9236] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.9236] dhcp4 (eth0):   lease time 1800
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.9236] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.9236] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.9236] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T10:55:17+03:00 Client1 NetworkManager[1070]: <info>  [1546847717.9236] dhcp4 (eth0): state changed unknown -> bound
+2019-01-07T10:56:57+03:00 Client1 NetworkManager[1070]: <info>  [1546847817.6792] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2592000sec pref 604800sec lifetime 1709-1709[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.2470] device (eth0): carrier: link connected
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.2480] device (eth0): DHCPv4 lease renewal requested
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.2605] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 8185
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.2605] dhcp4 (eth0): state changed bound -> done
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.2620] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.2776] dhcp4 (eth0): dhclient started with pid 9171
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.3544] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.3545] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.3545] dhcp4 (eth0):   lease time 1800
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.3546] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.3546] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.3546] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T11:00:21+03:00 Client1 NetworkManager[1070]: <info>  [1546848021.3546] dhcp4 (eth0): state changed unknown -> bound
+2019-01-07T11:00:22+03:00 Client1 NetworkManager[1070]: <info>  [1546848022.6346] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2592000sec pref 604800sec lifetime 1914-1914[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T11:00:28+03:00 Client1 NetworkManager[1070]: <info>  [1546848028.1078] hostname: hostname changed from "Client1.localdomain" to "yusuf.localdomain"
+2019-01-07T11:00:28+03:00 Client1 NetworkManager[1070]: <info>  [1546848028.1144] policy: set-hostname: set hostname to 'yusuf.localdomain' (from system configuration)
+2019-01-07T11:21:38+03:00 Client1 NetworkManager[1070]: <info>  [1546849298.5909] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2591999sec pref 604799sec lifetime 2489-2488[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T11:24:53+03:00 Client1 NetworkManager[1070]: <info>  [1546849493.4924] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T11:24:53+03:00 Client1 NetworkManager[1070]: <info>  [1546849493.4924] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T11:24:53+03:00 Client1 NetworkManager[1070]: <info>  [1546849493.4924] dhcp4 (eth0):   lease time 1800
+2019-01-07T11:24:53+03:00 Client1 NetworkManager[1070]: <info>  [1546849493.4924] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T11:24:53+03:00 Client1 NetworkManager[1070]: <info>  [1546849493.4924] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T11:24:53+03:00 Client1 NetworkManager[1070]: <info>  [1546849493.4924] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T11:24:53+03:00 Client1 NetworkManager[1070]: <info>  [1546849493.4924] dhcp4 (eth0): state changed bound -> bound
+2019-01-07T11:25:36+03:00 Client1 NetworkManager[1070]: <info>  [1546849536.9360] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2591999sec pref 604799sec lifetime 2727-2726[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T11:32:16+03:00 Client1 NetworkManager[1070]: <info>  [1546849936.1025] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2592000sec pref 604800sec lifetime 3126-3126[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T11:36:44+03:00 Client1 NetworkManager[1070]: <info>  [1546850204.1935] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2592000sec pref 604800sec lifetime 3394-3394[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T11:38:25+03:00 Client1 NetworkManager[1070]: <info>  [1546850305.0080] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T11:38:25+03:00 Client1 NetworkManager[1070]: <info>  [1546850305.0080] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T11:38:25+03:00 Client1 NetworkManager[1070]: <info>  [1546850305.0081] dhcp4 (eth0):   lease time 1800
+2019-01-07T11:38:25+03:00 Client1 NetworkManager[1070]: <info>  [1546850305.0081] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T11:38:25+03:00 Client1 NetworkManager[1070]: <info>  [1546850305.0081] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T11:38:25+03:00 Client1 NetworkManager[1070]: <info>  [1546850305.0081] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T11:38:25+03:00 Client1 NetworkManager[1070]: <info>  [1546850305.0081] dhcp4 (eth0): state changed bound -> bound
+2019-01-07T11:41:56+03:00 Client1 NetworkManager[1070]: <info>  [1546850516.3639] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2591999sec pref 604799sec lifetime 3707-3706[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T11:49:01+03:00 Client1 NetworkManager[1070]: <info>  [1546850941.9657] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2591999sec pref 604799sec lifetime 4132-4131[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T11:50:40+03:00 Client1 NetworkManager[1070]: <info>  [1546851040.0455] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T11:50:40+03:00 Client1 NetworkManager[1070]: <info>  [1546851040.0457] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T11:50:40+03:00 Client1 NetworkManager[1070]: <info>  [1546851040.0457] dhcp4 (eth0):   lease time 1800
+2019-01-07T11:50:40+03:00 Client1 NetworkManager[1070]: <info>  [1546851040.0458] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T11:50:40+03:00 Client1 NetworkManager[1070]: <info>  [1546851040.0458] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T11:50:40+03:00 Client1 NetworkManager[1070]: <info>  [1546851040.0458] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T11:50:40+03:00 Client1 NetworkManager[1070]: <info>  [1546851040.0458] dhcp4 (eth0): state changed bound -> bound
+2019-01-07T11:53:19+03:00 Client1 NetworkManager[1070]: <info>  [1546851199.1484] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2592000sec pref 604800sec lifetime 4389-4389[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T11:58:27+03:00 Client1 NetworkManager[1070]: <info>  [1546851507.9559] device (eth0): carrier: link connected
+2019-01-07T11:58:27+03:00 Client1 NetworkManager[1070]: <info>  [1546851507.9615] device (eth0): DHCPv4 lease renewal requested
+2019-01-07T11:58:27+03:00 Client1 NetworkManager[1070]: <info>  [1546851507.9669] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 9171
+2019-01-07T11:58:27+03:00 Client1 NetworkManager[1070]: <info>  [1546851507.9669] dhcp4 (eth0): state changed bound -> done
+2019-01-07T11:58:27+03:00 Client1 NetworkManager[1070]: <info>  [1546851507.9721] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-07T11:58:27+03:00 Client1 NetworkManager[1070]: <info>  [1546851507.9861] dhcp4 (eth0): dhclient started with pid 20007
+2019-01-07T11:58:28+03:00 Client1 NetworkManager[1070]: <info>  [1546851508.0573] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T11:58:28+03:00 Client1 NetworkManager[1070]: <info>  [1546851508.0574] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T11:58:28+03:00 Client1 NetworkManager[1070]: <info>  [1546851508.0574] dhcp4 (eth0):   lease time 1800
+2019-01-07T11:58:28+03:00 Client1 NetworkManager[1070]: <info>  [1546851508.0574] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T11:58:28+03:00 Client1 NetworkManager[1070]: <info>  [1546851508.0574] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T11:58:28+03:00 Client1 NetworkManager[1070]: <info>  [1546851508.0574] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T11:58:28+03:00 Client1 NetworkManager[1070]: <info>  [1546851508.0574] dhcp4 (eth0): state changed unknown -> bound
+2019-01-07T12:01:15+03:00 Client1 NetworkManager[1070]: <info>  [1546851675.1080] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2592000sec pref 604800sec lifetime 4865-4865[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.4718] device (eth0): carrier: link connected
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.4722] device (eth0): DHCPv4 lease renewal requested
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.4811] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 20007
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.4811] dhcp4 (eth0): state changed bound -> done
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.4824] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.4910] dhcp4 (eth0): dhclient started with pid 21069
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.5747] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.5749] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.5750] dhcp4 (eth0):   lease time 1800
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.5750] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.5750] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.5750] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T12:03:31+03:00 Client1 NetworkManager[1070]: <info>  [1546851811.5750] dhcp4 (eth0): state changed unknown -> bound
+2019-01-07T12:06:26+03:00 Client1 NetworkManager[1070]: <info>  [1546851986.6023] device (eth0): carrier: link connected
+2019-01-07T12:06:26+03:00 Client1 NetworkManager[1070]: <info>  [1546851986.6026] device (eth0): DHCPv4 lease renewal requested
+2019-01-07T12:06:26+03:00 Client1 NetworkManager[1070]: <info>  [1546851986.6138] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 21069
+2019-01-07T12:06:26+03:00 Client1 NetworkManager[1070]: <info>  [1546851986.6139] dhcp4 (eth0): state changed bound -> done
+2019-01-07T12:06:26+03:00 Client1 NetworkManager[1070]: <info>  [1546851986.6149] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-07T12:06:26+03:00 Client1 NetworkManager[1070]: <info>  [1546851986.6601] dhcp4 (eth0): dhclient started with pid 21262
+2019-01-07T12:06:27+03:00 Client1 NetworkManager[1070]: <info>  [1546851987.6309] device (eth0): ipv6: duplicate address check failed for the fdb2:2c26:f4e4:1:af5e:7b49:afc7:f9a7/64 lft 2591999sec pref 604799sec lifetime 5051-5050[604800,2592000] dev 2 flags tentative,noprefixroute src kernel address
+2019-01-07T12:06:30+03:00 Client1 NetworkManager[1070]: <info>  [1546851990.8392] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T12:06:30+03:00 Client1 NetworkManager[1070]: <info>  [1546851990.8394] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T12:06:30+03:00 Client1 NetworkManager[1070]: <info>  [1546851990.8394] dhcp4 (eth0):   lease time 1800
+2019-01-07T12:06:30+03:00 Client1 NetworkManager[1070]: <info>  [1546851990.8394] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T12:06:30+03:00 Client1 NetworkManager[1070]: <info>  [1546851990.8395] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T12:06:30+03:00 Client1 NetworkManager[1070]: <info>  [1546851990.8395] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T12:06:30+03:00 Client1 NetworkManager[1070]: <info>  [1546851990.8395] dhcp4 (eth0): state changed unknown -> bound
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.1983] device (eth0): carrier: link connected
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.1990] device (eth0): DHCPv4 lease renewal requested
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2094] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 21262
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2095] dhcp4 (eth0): state changed bound -> done
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2101] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2177] dhcp4 (eth0): dhclient started with pid 22688
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2675] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2675] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2675] dhcp4 (eth0):   lease time 1800
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2675] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2676] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2676] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T12:22:49+03:00 Client1 NetworkManager[1070]: <info>  [1546852969.2676] dhcp4 (eth0): state changed unknown -> bound
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.2670] device (eth0): carrier: link connected
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.2673] device (eth0): DHCPv4 lease renewal requested
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.2779] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 22688
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.2780] dhcp4 (eth0): state changed bound -> done
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.2794] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.2850] dhcp4 (eth0): dhclient started with pid 22775
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.3222] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.3223] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.3223] dhcp4 (eth0):   lease time 1800
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.3223] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.3223] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.3223] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T12:23:07+03:00 Client1 NetworkManager[1070]: <info>  [1546852987.3223] dhcp4 (eth0): state changed unknown -> bound
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.8700] device (eth0): carrier: link connected
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.8702] device (eth0): DHCPv4 lease renewal requested
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.8779] dhcp4 (eth0): canceled DHCP transaction, DHCP client pid 22775
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.8780] dhcp4 (eth0): state changed bound -> done
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.8787] dhcp4 (eth0): activation: beginning transaction (timeout in 45 seconds)
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.8840] dhcp4 (eth0): dhclient started with pid 22838
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.9226] dhcp4 (eth0):   address 10.37.129.6
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.9227] dhcp4 (eth0):   plen 24 (255.255.255.0)
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.9227] dhcp4 (eth0):   lease time 1800
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.9227] dhcp4 (eth0):   hostname 'Client1'
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.9227] dhcp4 (eth0):   nameserver '10.37.129.1'
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.9227] dhcp4 (eth0):   domain name 'localdomain'
+2019-01-07T12:23:15+03:00 Client1 NetworkManager[1070]: <info>  [1546852995.9227] dhcp4 (eth0): state changed unknown -> bound

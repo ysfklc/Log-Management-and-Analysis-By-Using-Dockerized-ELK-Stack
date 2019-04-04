@@ -1,0 +1,2 @@
+2019-01-07T11:31:14+03:00 Client1 PackageKit: get-updates transaction /7_bbdcbecb from uid 1000 finished with success after 723681ms
+2019-01-07T11:31:14+03:00 Client1 PackageKit: new update-packages transaction /8_baadcdce scheduled from uid 1000

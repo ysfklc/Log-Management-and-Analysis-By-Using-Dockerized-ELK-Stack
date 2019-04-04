@@ -1,0 +1,4 @@
+2019-01-07T11:18:06+03:00 Client1 prlcc.desktop: find: ‘/var/lib/flatpak/exports/share//applications/’: No such file or directory
+2019-01-07T11:18:06+03:00 Client1 prlcc.desktop: find: ‘/home/parallels/.local/share/flatpak/exports/share//applications/’: No such file or directory
+2019-01-07T11:18:06+03:00 Client1 prlcc.desktop: find: ‘/var/lib/flatpak/exports/share//applications/’: No such file or directory
+2019-01-07T11:18:07+03:00 Client1 prlcc.desktop: find: ‘/home/parallels/.local/share/flatpak/exports/share//applications/’: No such file or directory

@@ -1,0 +1,2 @@
+2019-01-07T11:00:28+03:00 Client1 dnsmasq[1700]: reading /etc/resolv.conf
+2019-01-07T11:00:28+03:00 Client1 dnsmasq[1700]: using nameserver 10.37.129.1#53

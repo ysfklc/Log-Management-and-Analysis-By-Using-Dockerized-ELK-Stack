@@ -1,0 +1,4 @@
+2019-01-07T11:18:16+03:00 Client1 sudo: pam_unix(sudo:auth): authentication failure; logname=parallels uid=1000 euid=0 tty=/dev/pts/0 ruser=parallels rhost=  user=parallels
+2019-01-07T11:19:19+03:00 Client1 sudo: parallels : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/home/parallels ; USER=root ; COMMAND=/bin/su
+2019-01-07T11:19:47+03:00 Client1 sudo: pam_unix(sudo:auth): authentication failure; logname=parallels uid=1000 euid=0 tty=/dev/pts/0 ruser=parallels rhost=  user=parallels
+2019-01-07T11:20:01+03:00 Client1 sudo: parallels : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/home/parallels ; USER=root ; COMMAND=apt-get install

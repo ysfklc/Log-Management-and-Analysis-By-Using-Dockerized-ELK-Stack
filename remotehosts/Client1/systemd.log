@@ -1,0 +1,131 @@
+2019-01-07T10:40:01+03:00 Client1 systemd: Started Session 3 of user root.
+2019-01-07T10:40:01+03:00 Client1 systemd: Starting Session 3 of user root.
+2019-01-07T10:40:04+03:00 Client1 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-07T10:40:04+03:00 Client1 systemd: Started Fingerprint Authentication Daemon.
+2019-01-07T10:40:05+03:00 Client1 systemd: Starting Hostname Service...
+2019-01-07T10:40:05+03:00 Client1 systemd: Started Hostname Service.
+2019-01-07T10:40:07+03:00 Client1 systemd: Stopping System Logging Service...
+2019-01-07T10:40:07+03:00 Client1 systemd: Starting System Logging Service...
+2019-01-07T10:40:07+03:00 Client1 systemd: Started System Logging Service.
+2019-01-07T10:40:36+03:00 Client1 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-07T10:40:36+03:00 Client1 systemd: Started Fingerprint Authentication Daemon.
+2019-01-07T10:41:11+03:00 Client1 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-07T10:41:11+03:00 Client1 systemd: Started Fingerprint Authentication Daemon.
+2019-01-07T10:41:11+03:00 Client1 systemd: Starting Hostname Service...
+2019-01-07T10:41:11+03:00 Client1 systemd: Started Hostname Service.
+2019-01-07T10:43:29+03:00 Client1 systemd: Starting Cleanup of Temporary Directories...
+2019-01-07T10:43:29+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T10:43:29+03:00 Client1 systemd: Started Cleanup of Temporary Directories.
+2019-01-07T10:43:29+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T10:48:59+03:00 Client1 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-07T10:48:59+03:00 Client1 systemd: Started Fingerprint Authentication Daemon.
+2019-01-07T10:49:01+03:00 Client1 systemd: Starting Hostname Service...
+2019-01-07T10:49:01+03:00 Client1 systemd: Started Hostname Service.
+2019-01-07T10:49:23+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:49:24+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:49:25+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:01+03:00 Client1 systemd: Started Session 4 of user root.
+2019-01-07T10:50:01+03:00 Client1 systemd: Starting Session 4 of user root.
+2019-01-07T10:50:25+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:26+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:28+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:28+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:33+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:34+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:35+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:35+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:36+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:37+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:38+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:39+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:40+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:41+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:42+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:43+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:44+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:45+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:46+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:47+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:48+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:49+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:50+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:51+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:52+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:53+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:50:53+03:00 Client1 systemd: [/usr/lib/systemd/system/firstboot-graphical.service:14] Support for option SysVStartPriority= has been removed and it is ignored
+2019-01-07T10:55:17+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T10:55:18+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T11:00:01+03:00 Client1 systemd: Started Session 5 of user root.
+2019-01-07T11:00:01+03:00 Client1 systemd: Starting Session 5 of user root.
+2019-01-07T11:00:21+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T11:00:21+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T11:00:26+03:00 Client1 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-07T11:00:26+03:00 Client1 systemd: Started Fingerprint Authentication Daemon.
+2019-01-07T11:00:27+03:00 Client1 systemd: Starting Hostname Service...
+2019-01-07T11:00:28+03:00 Client1 systemd: Started Hostname Service.
+2019-01-07T11:12:10+03:00 Client1 systemd: Time has been changed
+2019-01-07T11:17:06+03:00 Client1 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-07T11:17:06+03:00 Client1 systemd: Started Fingerprint Authentication Daemon.
+2019-01-07T11:17:39+03:00 Client1 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-07T11:17:39+03:00 Client1 systemd: Started Fingerprint Authentication Daemon.
+2019-01-07T11:17:39+03:00 Client1 systemd: Starting Hostname Service...
+2019-01-07T11:17:39+03:00 Client1 systemd: Started Hostname Service.
+2019-01-07T11:17:51+03:00 Client1 systemd: Created slice User Slice of gdm.
+2019-01-07T11:17:51+03:00 Client1 systemd: Starting User Slice of gdm.
+2019-01-07T11:17:51+03:00 Client1 systemd: Started Session c3 of user gdm.
+2019-01-07T11:17:51+03:00 Client1 systemd: Starting Session c3 of user gdm.
+2019-01-07T11:17:52+03:00 Client1 systemd: Starting Locale Service...
+2019-01-07T11:17:52+03:00 Client1 systemd: Started Locale Service.
+2019-01-07T11:17:52+03:00 Client1 systemd: Starting Location Lookup Service...
+2019-01-07T11:17:52+03:00 Client1 systemd: Started Location Lookup Service.
+2019-01-07T11:17:53+03:00 Client1 systemd: Starting Realm and Domain Configuration...
+2019-01-07T11:17:53+03:00 Client1 systemd: Started Realm and Domain Configuration.
+2019-01-07T11:17:59+03:00 Client1 systemd: Created slice User Slice of parallels.
+2019-01-07T11:17:59+03:00 Client1 systemd: Starting User Slice of parallels.
+2019-01-07T11:17:59+03:00 Client1 systemd: Started Session 6 of user parallels.
+2019-01-07T11:17:59+03:00 Client1 systemd: Starting Session 6 of user parallels.
+2019-01-07T11:18:03+03:00 Client1 systemd: Starting Location Lookup Service...
+2019-01-07T11:18:03+03:00 Client1 systemd: Started Location Lookup Service.
+2019-01-07T11:18:15+03:00 Client1 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-07T11:18:15+03:00 Client1 systemd: Started Fingerprint Authentication Daemon.
+2019-01-07T11:18:21+03:00 Client1 systemd: Removed slice User Slice of gdm.
+2019-01-07T11:18:21+03:00 Client1 systemd: Stopping User Slice of gdm.
+2019-01-07T11:18:47+03:00 Client1 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-07T11:18:47+03:00 Client1 systemd: Started Fingerprint Authentication Daemon.
+2019-01-07T11:19:45+03:00 Client1 systemd: Starting Fingerprint Authentication Daemon...
+2019-01-07T11:19:45+03:00 Client1 systemd: Started Fingerprint Authentication Daemon.
+2019-01-07T11:20:01+03:00 Client1 systemd: Started Session 7 of user root.
+2019-01-07T11:20:01+03:00 Client1 systemd: Starting Session 7 of user root.
+2019-01-07T11:24:53+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T11:24:53+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T11:30:01+03:00 Client1 systemd: Started Session 8 of user root.
+2019-01-07T11:30:01+03:00 Client1 systemd: Starting Session 8 of user root.
+2019-01-07T11:38:25+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T11:38:25+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T11:40:02+03:00 Client1 systemd: Started Session 9 of user root.
+2019-01-07T11:40:02+03:00 Client1 systemd: Starting Session 9 of user root.
+2019-01-07T11:50:01+03:00 Client1 systemd: Started Session 10 of user root.
+2019-01-07T11:50:01+03:00 Client1 systemd: Starting Session 10 of user root.
+2019-01-07T11:50:40+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T11:50:40+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T11:58:28+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T11:58:28+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T12:00:01+03:00 Client1 systemd: Started Session 11 of user root.
+2019-01-07T12:00:01+03:00 Client1 systemd: Starting Session 11 of user root.
+2019-01-07T12:01:01+03:00 Client1 systemd: Started Session 12 of user root.
+2019-01-07T12:01:01+03:00 Client1 systemd: Starting Session 12 of user root.
+2019-01-07T12:03:31+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T12:03:31+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T12:06:18+03:00 Client1 systemd: Time has been changed
+2019-01-07T12:06:30+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T12:06:30+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T12:16:33+03:00 Client1 systemd: Time has been changed
+2019-01-07T12:20:01+03:00 Client1 systemd: Started Session 13 of user root.
+2019-01-07T12:20:01+03:00 Client1 systemd: Starting Session 13 of user root.
+2019-01-07T12:22:49+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T12:22:49+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T12:23:07+03:00 Client1 systemd: Starting Network Manager Script Dispatcher Service...
+2019-01-07T12:23:07+03:00 Client1 systemd: Started Network Manager Script Dispatcher Service.
+2019-01-07T13:18:28+03:00 Client1 systemd: Time has been changed
+2019-01-07T13:20:01+03:00 Client1 systemd: Started Session 14 of user root.
+2019-01-07T13:20:01+03:00 Client1 systemd: Starting Session 14 of user root.

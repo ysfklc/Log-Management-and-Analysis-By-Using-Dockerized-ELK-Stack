@@ -1,0 +1,37 @@
+2019-01-07T10:43:29+03:00 Client1 dhclient[1205]: DHCPREQUEST on eth0 to 10.37.129.1 port 67 (xid=0x65267907)
+2019-01-07T10:43:29+03:00 Client1 dhclient[1205]: DHCPACK from 10.37.129.1 (xid=0x65267907)
+2019-01-07T10:43:29+03:00 Client1 dhclient[1205]: bound to 10.37.129.6 -- renewal in 734 seconds.
+2019-01-07T10:55:17+03:00 Client1 dhclient[8185]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x588cbb9e)
+2019-01-07T10:55:17+03:00 Client1 dhclient[8185]: DHCPACK from 10.37.129.1 (xid=0x588cbb9e)
+2019-01-07T10:55:17+03:00 Client1 dhclient[8185]: bound to 10.37.129.6 -- renewal in 728 seconds.
+2019-01-07T11:00:21+03:00 Client1 dhclient[9171]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x75c586a5)
+2019-01-07T11:00:21+03:00 Client1 dhclient[9171]: DHCPACK from 10.37.129.1 (xid=0x75c586a5)
+2019-01-07T11:00:21+03:00 Client1 dhclient[9171]: bound to 10.37.129.6 -- renewal in 771 seconds.
+2019-01-07T11:24:53+03:00 Client1 dhclient[9171]: DHCPREQUEST on eth0 to 10.37.129.1 port 67 (xid=0x75c586a5)
+2019-01-07T11:24:53+03:00 Client1 dhclient[9171]: DHCPACK from 10.37.129.1 (xid=0x75c586a5)
+2019-01-07T11:24:53+03:00 Client1 dhclient[9171]: bound to 10.37.129.6 -- renewal in 811 seconds.
+2019-01-07T11:38:24+03:00 Client1 dhclient[9171]: DHCPREQUEST on eth0 to 10.37.129.1 port 67 (xid=0x75c586a5)
+2019-01-07T11:38:24+03:00 Client1 dhclient[9171]: DHCPACK from 10.37.129.1 (xid=0x75c586a5)
+2019-01-07T11:38:25+03:00 Client1 dhclient[9171]: bound to 10.37.129.6 -- renewal in 734 seconds.
+2019-01-07T11:50:40+03:00 Client1 dhclient[9171]: DHCPREQUEST on eth0 to 10.37.129.1 port 67 (xid=0x75c586a5)
+2019-01-07T11:50:40+03:00 Client1 dhclient[9171]: DHCPACK from 10.37.129.1 (xid=0x75c586a5)
+2019-01-07T11:50:40+03:00 Client1 dhclient[9171]: bound to 10.37.129.6 -- renewal in 714 seconds.
+2019-01-07T11:58:28+03:00 Client1 dhclient[20007]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x61bf6a9d)
+2019-01-07T11:58:28+03:00 Client1 dhclient[20007]: DHCPACK from 10.37.129.1 (xid=0x61bf6a9d)
+2019-01-07T11:58:28+03:00 Client1 dhclient[20007]: bound to 10.37.129.6 -- renewal in 716 seconds.
+2019-01-07T12:03:31+03:00 Client1 dhclient[21069]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x46ac378b)
+2019-01-07T12:03:31+03:00 Client1 dhclient[21069]: DHCPACK from 10.37.129.1 (xid=0x46ac378b)
+2019-01-07T12:03:31+03:00 Client1 dhclient[21069]: bound to 10.37.129.6 -- renewal in 746 seconds.
+2019-01-07T12:06:26+03:00 Client1 dhclient[21262]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x364faec4)
+2019-01-07T12:06:30+03:00 Client1 dhclient[21262]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x364faec4)
+2019-01-07T12:06:30+03:00 Client1 dhclient[21262]: DHCPACK from 10.37.129.1 (xid=0x364faec4)
+2019-01-07T12:06:30+03:00 Client1 dhclient[21262]: bound to 10.37.129.6 -- renewal in 752 seconds.
+2019-01-07T12:22:49+03:00 Client1 dhclient[22688]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x171f7284)
+2019-01-07T12:22:49+03:00 Client1 dhclient[22688]: DHCPACK from 10.37.129.1 (xid=0x171f7284)
+2019-01-07T12:22:49+03:00 Client1 dhclient[22688]: bound to 10.37.129.6 -- renewal in 755 seconds.
+2019-01-07T12:23:07+03:00 Client1 dhclient[22775]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x437e4652)
+2019-01-07T12:23:07+03:00 Client1 dhclient[22775]: DHCPACK from 10.37.129.1 (xid=0x437e4652)
+2019-01-07T12:23:07+03:00 Client1 dhclient[22775]: bound to 10.37.129.6 -- renewal in 861 seconds.
+2019-01-07T12:23:15+03:00 Client1 dhclient[22838]: DHCPREQUEST on eth0 to 255.255.255.255 port 67 (xid=0x71ce30fe)
+2019-01-07T12:23:15+03:00 Client1 dhclient[22838]: DHCPACK from 10.37.129.1 (xid=0x71ce30fe)
+2019-01-07T12:23:15+03:00 Client1 dhclient[22838]: bound to 10.37.129.6 -- renewal in 884 seconds.

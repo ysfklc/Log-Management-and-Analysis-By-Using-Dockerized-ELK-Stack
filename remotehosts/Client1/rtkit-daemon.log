@@ -1,0 +1,16 @@
+2019-01-07T11:17:51+03:00 Client1 rtkit-daemon[702]: Successfully made thread 10671 of process 10671 (/usr/bin/pulseaudio) owned by '42' high priority at nice level -11.
+2019-01-07T11:17:51+03:00 Client1 rtkit-daemon[702]: Supervising 1 threads of 1 processes of 1 users.
+2019-01-07T11:17:51+03:00 Client1 rtkit-daemon[702]: Supervising 1 threads of 1 processes of 1 users.
+2019-01-07T11:17:51+03:00 Client1 rtkit-daemon[702]: Successfully made thread 10674 of process 10671 (/usr/bin/pulseaudio) owned by '42' RT at priority 5.
+2019-01-07T11:17:51+03:00 Client1 rtkit-daemon[702]: Supervising 2 threads of 1 processes of 1 users.
+2019-01-07T11:17:51+03:00 Client1 rtkit-daemon[702]: Supervising 2 threads of 1 processes of 1 users.
+2019-01-07T11:17:51+03:00 Client1 rtkit-daemon[702]: Successfully made thread 10677 of process 10671 (/usr/bin/pulseaudio) owned by '42' RT at priority 5.
+2019-01-07T11:17:51+03:00 Client1 rtkit-daemon[702]: Supervising 3 threads of 1 processes of 1 users.
+2019-01-07T11:18:02+03:00 Client1 rtkit-daemon[702]: Successfully made thread 11159 of process 11159 (/usr/bin/pulseaudio) owned by '1000' high priority at nice level -11.
+2019-01-07T11:18:02+03:00 Client1 rtkit-daemon[702]: Supervising 4 threads of 2 processes of 2 users.
+2019-01-07T11:18:02+03:00 Client1 rtkit-daemon[702]: Supervising 4 threads of 2 processes of 2 users.
+2019-01-07T11:18:02+03:00 Client1 rtkit-daemon[702]: Successfully made thread 11162 of process 11159 (/usr/bin/pulseaudio) owned by '1000' RT at priority 5.
+2019-01-07T11:18:02+03:00 Client1 rtkit-daemon[702]: Supervising 5 threads of 2 processes of 2 users.
+2019-01-07T11:18:02+03:00 Client1 rtkit-daemon[702]: Supervising 5 threads of 2 processes of 2 users.
+2019-01-07T11:18:02+03:00 Client1 rtkit-daemon[702]: Successfully made thread 11165 of process 11159 (/usr/bin/pulseaudio) owned by '1000' RT at priority 5.
+2019-01-07T11:18:02+03:00 Client1 rtkit-daemon[702]: Supervising 6 threads of 2 processes of 2 users.

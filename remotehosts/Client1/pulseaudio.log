@@ -1,0 +1,14 @@
+2019-01-07T11:17:51+03:00 Client1 pulseaudio[10671]: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+2019-01-07T11:17:51+03:00 Client1 pulseaudio[10671]: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+2019-01-07T11:18:02+03:00 Client1 pulseaudio[11159]: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+2019-01-07T11:18:02+03:00 Client1 pulseaudio[11159]: [pulseaudio] alsa-util.c: Disabling timer-based scheduling because running inside a VM.
+2019-01-07T11:18:04+03:00 Client1 pulseaudio[11159]: [alsa-source-Intel ICH] alsa-source.c: ALSA woke us up to read new data from the device, but there was actually nothing to read.
+2019-01-07T11:18:04+03:00 Client1 pulseaudio[11159]: [alsa-source-Intel ICH] alsa-source.c: Most likely this is a bug in the ALSA driver 'snd_intel8x0'. Please report this issue to the ALSA developers.
+2019-01-07T11:18:04+03:00 Client1 pulseaudio[11159]: [alsa-source-Intel ICH] alsa-source.c: We were woken up with POLLIN set -- however a subsequent snd_pcm_avail() returned 0 or another value < min_avail.
+2019-01-07T11:18:27+03:00 Client1 pulseaudio[11159]: [pulseaudio] bluez5-util.c: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2019-01-07T12:23:16+03:00 Client1 pulseaudio[11159]: [alsa-sink-Intel ICH] alsa-sink.c: Error opening PCM device front:0: Device or resource busy
+2019-01-07T12:23:16+03:00 Client1 pulseaudio[11159]: [pulseaudio] sink-input.c: Failed to create sink input: sink is suspended.
+2019-01-07T12:23:20+03:00 Client1 pulseaudio[11159]: [alsa-sink-Intel ICH] alsa-sink.c: Error opening PCM device front:0: Device or resource busy
+2019-01-07T12:23:20+03:00 Client1 pulseaudio[11159]: [pulseaudio] sink-input.c: Failed to create sink input: sink is suspended.
+2019-01-07T13:21:15+03:00 Client1 pulseaudio: Error opening PCM device front:0: Device or resource busy
+2019-01-07T13:21:15+03:00 Client1 pulseaudio: Failed to create sink input: sink is suspended.
